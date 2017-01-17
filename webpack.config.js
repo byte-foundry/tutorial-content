@@ -38,7 +38,7 @@ var config = {
       },
       { 
           test: /\.md$/, 
-          loader: "html!markdown?gfm=false" 
+          loader: "html!markdown?gfm=false"
       },
     ]
   },
