@@ -1,4 +1,4 @@
-## Course 1
+## Course 2
 
 ![Tutorial illustration](https://placekitten.com/g/1920/400)
 
