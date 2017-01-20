@@ -1,5 +1,3 @@
-# Course 2
-
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum obcaecati sapiente doloremque exercitationem possimus, quo veritatis dicta consectetur maxime. Reiciendis laboriosam nostrum, cupiditate esse magnam quisquam, excepturi dolores voluptates.
 Lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eaque unde cum quo debitis illo labore, nam laborum odio voluptatem eos. Optio obcaecati minus autem blanditiis deserunt, quae. Praesentium, sed assumenda. Lorem ipsum dolor
 
