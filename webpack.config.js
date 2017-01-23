@@ -1,4 +1,5 @@
 var webpack = require('webpack');
+var WebpackShellPlugin = require('webpack-shell-plugin');
 var UglifyJsPlugin = webpack.optimize.UglifyJsPlugin;
 var path = require('path');
 var env = require('yargs').argv.mode;
@@ -7,16 +8,14 @@ var libraryName = 'tutorial-content';
 
 var plugins = [], outputFile;
 
-if (env === 'build') {
-  plugins.push(new UglifyJsPlugin({ minimize: true }));
-  outputFile = libraryName + '.js';
-} else {
-  outputFile = libraryName + '.js';
-}
+plugins.push(new UglifyJsPlugin({ minimize: true }));
+outputFile = libraryName + '.js';
+plugins.push(new WebpackShellPlugin({
+  onBuildEnd: ['node src/prepare-kirby.js']
+}));
 
 var config = {
   entry: __dirname + '/src/index.js',
-  devtool: 'source-map',
   output: {
     path: __dirname + '/lib',
     filename: outputFile,
@@ -37,8 +36,8 @@ var config = {
         exclude: /node_modules/
       },
       { 
-          test: /\.md$/, 
-          loader: "html!markdown?gfm=false"
+        test: /\.md$/, 
+        loader: 'raw-loader'
       },
     ]
   },
