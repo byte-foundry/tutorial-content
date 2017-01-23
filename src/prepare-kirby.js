@@ -57,12 +57,12 @@ Date: ${course.date}
  
  
 Header:
-${course.rawHeader}
+${course.header}
  
  
 ----
 Contentcourse:
-${course.rawContent}
+${course.content}
 `;
 
       fs.writeFile(
