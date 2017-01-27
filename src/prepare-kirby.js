@@ -44,8 +44,14 @@ Ogimage:
 ----
  
 
-Tags: ${course.tags}
+Tags: ${course.tags.map((tag, index) => tag)}
  
+ 
+----
+ 
+
+Basics: ${course.basics.map((basic, index) => basic)}
+
  
 ----
  

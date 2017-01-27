@@ -1,5 +1,5 @@
 
-Title: course2
+Title: course 2
  
  
 ----
@@ -19,6 +19,12 @@ Ogimage:
 
 Tags: chaton,mignon
  
+ 
+----
+ 
+
+Basics: course-1,course-1,course-1
+
  
 ----
  
