@@ -22,7 +22,7 @@ deleteFolderRecursive(`${__dirname}/../libKirby`);
 fs.mkdir(`${__dirname}/../libKirby`, () => {
   content.map((course, index) => {
     // create course folder
-    fs.mkdir(`${__dirname}/../libKirby/${index + 1 }-${course.title}`, () => {
+    fs.mkdir(`${__dirname}/../libKirby/${index + 1 }-${course.slug}`, () => {
       // create text file
 
       let fileContent = `
@@ -72,12 +72,12 @@ ${course.content}
 `;
 
       fs.writeFile(
-        `${__dirname}/../libKirby/${index + 1 }-${course.title}/academycourse.txt`
+        `${__dirname}/../libKirby/${index + 1 }-${course.slug}/academycourse.txt`
         , fileContent, function (err) {
         if (err) {
           return console.log(err);
         }
-        console.log(`File - ${__dirname}/../libKirby/${index + 1 }-${course.title}/academycourse.txt was saved!`);
+        console.log(`File - ${__dirname}/../libKirby/${index + 1 }-${course.slug}/academycourse.txt was saved!`);
       });
     });
   });
