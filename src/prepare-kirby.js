@@ -44,14 +44,18 @@ Ogimage:
 ----
  
 
-Tags: ${course.tags.map((tag, index) => tag)}
+${course.tags && course.tags.length > 0 ? ('Tags: ' + course.tags.map((tag, index) => tag)) : ''}
  
  
 ----
  
 
-Basics: ${course.basics.map((basic, index) => basic)}
+${course.basics && course.basics.length > 0 ? ('Basicsurl: ' + course.basics.map((basic, index) => basic.slug)) : ''}
+ 
+----
+ 
 
+${course.basics && course.basics.length > 0 ? ('Basicstitle: ' + course.basics.map((basic, index) => basic.title)) : ''}
  
 ----
  

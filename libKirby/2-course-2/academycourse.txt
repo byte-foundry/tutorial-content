@@ -23,8 +23,12 @@ Tags: chaton,mignon
 ----
  
 
-Basics: course-1
+Basicsurl: course-1
+ 
+----
+ 
 
+Basicstitle: course 1
  
 ----
  

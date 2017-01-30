@@ -21,7 +21,12 @@ export default class TutorialContent {
       tags: ['chaton', 'mignon'],
       header: course2Header,
       content: course2Content,
-      basics: [this.slugify('course 1')]
+      basics: [
+        {
+          title: this.one.title,
+          slug: this.one.slug
+        }
+      ]
     };
   }
   slugify(text) {
