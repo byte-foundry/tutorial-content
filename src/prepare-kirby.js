@@ -32,13 +32,13 @@ Title: ${course.title}
 ----
  
  
-Ogdescription:
+Ogdescription: ${course.ogDescription}
  
  
 ----
  
  
-Ogimage:
+Ogimage: ${course.ogImage}
  
  
 ----
@@ -63,6 +63,24 @@ ${course.basics && course.basics.length > 0 ? ('Basicstitle: ' + course.basics.m
 Date: ${course.date}
  
  
+----
+
+
+Published: ${course.published}
+
+
+----
+
+
+Reward: ${course.reward}
+
+
+----
+
+
+Subtitle: ${course.subtitle}
+
+
 ----
  
  

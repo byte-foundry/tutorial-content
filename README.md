@@ -13,7 +13,7 @@ This content is used simultaneously on two platform:
 
 Writing all the tutorials on the website and on the app (which has no CMS whatsoever) would have been a tedious task. It's better to write the content once, then ship it everywhere.
 
-That's the purpose of this library. The content has to be written only once in markdown and placed into the content folder. Then, we have to add a several extra info (course title, slug, references, tags...) to spice it up, and build it!
+That's the purpose of this library. The content has to be written only once in markdown and placed into the content folder, and build it!
 
 The build process generates two things:
 
@@ -22,8 +22,7 @@ The build process generates two things:
 
 To summarize:
 
-- Write your content on markdown
-- Add the additional informations
+- Write your content on markdown, including the YAML font-matter meta tags
 - Build it (using webpack)
 - Rebuild the app and the website, installing the new library version
 - Done!
@@ -42,14 +41,14 @@ Being familiar with those tools is recommended before diving into this repositor
 
 ### The *src* folder
 
-The *src* folder is the main folder of this repository. It contains two files, and only one should be modified to add a new course:
+The *src* folder is the main folder of this repository. It contains two files, none should be modified to add a new course:
 
-- **Index.js**:  This file contains an object `TutorialContent` which import the markdown content of the course and offers a getter in order to get the content and the additional information
+- **Index.js**:  This file contains an object `TutorialContent` which import the markdown content of all the courses, parse them and offers a getter in order to get the content and the additional information
 - **prepare-kirby.js**:  a post-build script that require the final library, generating the kirby static files. It erases everything in the libKirby folder and generates the new files getting the information from the UMD library.
 
 ### The *static* folder
 
-The *static* folder contains the markdown files for the course. An header and a content file is needed for each course.
+The *static* folder contains the markdown files for the course. Only one markdown file is needed per course.
 
 ### The *lib* and *libKirby* folder
 

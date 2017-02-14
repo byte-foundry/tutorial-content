@@ -1,29 +1,24 @@
 
-Title: course 1
+Title: Course 1 title
  
  
 ----
  
  
-Ogdescription:
+Ogdescription: Description du cours pour préparer les méta OG
  
  
 ----
  
  
-Ogimage:
- 
- 
-----
- 
-
-Tags: petit chat,poil
+Ogimage: null
  
  
 ----
  
 
-
+Tags: chaton,mignon
+ 
  
 ----
  
@@ -32,30 +27,55 @@ Tags: petit chat,poil
  
 ----
  
+
+
  
-Date: 2017-01-11
+----
  
  
+Date: Wed Jan 11 2017 01:00:00 GMT+0100 (Paris, Madrid)
+ 
+ 
+----
+
+
+Published: true
+
+
+----
+
+
+Reward: Un café chez prototypo
+
+
+----
+
+
+Subtitle: sous-titre du cours
+
+
 ----
  
  
 Header:
 ![Tutorial illustration](https://placekitten.com/g/1920/400)
 
+ - course 1
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum obcaecati sapiente doloremque exercitationem possimus, quo veritatis dicta consectetur maxime. Reiciendis laboriosam nostrum, cupiditate esse magnam quisquam, excepturi dolores voluptates.
 
 *By completing this course you will earn*
 
-- Un massage à l'huile par yannick mathey
+- Un café chez Prototypo
 
  
  
 ----
 Contentcourse:
+
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum obcaecati sapiente doloremque exercitationem possimus, quo veritatis dicta consectetur maxime. Reiciendis laboriosam nostrum, cupiditate esse magnam quisquam, excepturi dolores voluptates.
 Lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eaque unde cum quo debitis illo labore, nam laborum odio voluptatem eos. Optio obcaecati minus autem blanditiis deserunt, quae. Praesentium, sed assumenda. Lorem ipsum dolor
 
-## Part 1
+## Part 1 - course 1
 ![Tutorial illustration](https://placekitten.com/g/1920/400)
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum obcaecati sapiente doloremque exercitationem possimus, quo veritatis dicta consectetur maxime. Reiciendis laboriosam nostrum, cupiditate esse magnam quisquam, excepturi dolores voluptates.
@@ -63,27 +83,33 @@ Lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eaque unde cum q
 Lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eaque unde cum quo debitis illo labore, nam laborum odio voluptatem eos. Optio obcaecati minus autem blanditiis deserunt, quae. Praesentium, sed assumenda. Lorem ipsum dolorLorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum obcaecati sapiente doloremque exercitationem possimus, quo veritatis dicta consectetur maxime. Reiciendis laboriosam nostrum, cupiditate esse magnam quisquam, excepturi dolores voluptates.
 Lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eaque unde cum quo debitis illo labore, nam laborum odio voluptatem eos. Optio obcaecati minus autem blanditiis deserunt, quae. Praesentium, sed assumenda. Lorem ipsum dolor
 
-## Part 2
+## Part 2 - course 1
 
 ![Tutorial illustration](https://placekitten.com/g/1920/400)
+
+ - course 1
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum obcaecati sapiente doloremque exercitationem possimus, quo veritatis dicta consectetur maxime. Reiciendis laboriosam nostrum, cupiditate esse magnam quisquam, excepturi dolores voluptates.
 Lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eaque unde cum quo debitis illo labore, nam laborum odio voluptatem eos. Optio obcaecati minus autem blanditiis deserunt, quae. Praesentium, sed assumenda. Lorem ipsum dolorLorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum obcaecati sapiente doloremque exercitationem possimus, quo veritatis dicta consectetur maxime. Reiciendis laboriosam nostrum, cupiditate esse magnam quisquam, excepturi dolores voluptates.
 Lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eaque unde cum quo debitis illo labore, nam laborum odio voluptatem eos. Optio obcaecati minus autem blanditiis deserunt, quae. Praesentium, sed assumenda. Lorem ipsum dolorLorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum obcaecati sapiente doloremque exercitationem possimus, quo veritatis dicta consectetur maxime. Reiciendis laboriosam nostrum, cupiditate esse magnam quisquam, excepturi dolores voluptates.
 Lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eaque unde cum quo debitis illo labore, nam laborum odio voluptatem eos. Optio obcaecati minus autem blanditiis deserunt, quae. Praesentium, sed assumenda. Lorem ipsum dolor
 
-## Part 3
+## Part 3 - course 1
 
 ![Tutorial illustration](https://placekitten.com/g/1920/400)
+
+ - course 1
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum obcaecati sapiente doloremque exercitationem possimus, quo veritatis dicta consectetur maxime. Reiciendis laboriosam nostrum, cupiditate esse magnam quisquam, excepturi dolores voluptates.
 Lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eaque unde cum quo debitis illo labore, nam laborum odio voluptatem eos. Optio obcaecati minus autem blanditiis deserunt, quae. Praesentium, sed assumenda. Lorem ipsum dolorLorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum obcaecati sapiente doloremque exercitationem possimus, quo veritatis dicta consectetur maxime. Reiciendis laboriosam nostrum, cupiditate esse magnam quisquam, excepturi dolores voluptates.
 Lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eaque unde cum quo debitis illo labore, nam laborum odio voluptatem eos. Optio obcaecati minus autem blanditiis deserunt, quae. Praesentium, sed assumenda. Lorem ipsum dolorLorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum obcaecati sapiente doloremque exercitationem possimus, quo veritatis dicta consectetur maxime. Reiciendis laboriosam nostrum, cupiditate esse magnam quisquam, excepturi dolores voluptates.
 Lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eaque unde cum quo debitis illo labore, nam laborum odio voluptatem eos. Optio obcaecati minus autem blanditiis deserunt, quae. Praesentium, sed assumenda. Lorem ipsum dolor
 
-## Part 4
+## Part 4 - course 1
 
 ![Tutorial illustration](https://placekitten.com/g/1920/400)
+
+ - course 1
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum obcaecati sapiente doloremque exercitationem possimus, quo veritatis dicta consectetur maxime. Reiciendis laboriosam nostrum, cupiditate esse magnam quisquam, excepturi dolores voluptates.
 Lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eaque unde cum quo debitis illo labore, nam laborum odio voluptatem eos. Optio obcaecati minus autem blanditiis deserunt, quae. Praesentium, sed assumenda. Lorem ipsum dolorLorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum obcaecati sapiente doloremque exercitationem possimus, quo veritatis dicta consectetur maxime. Reiciendis laboriosam nostrum, cupiditate esse magnam quisquam, excepturi dolores voluptates.

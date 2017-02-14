@@ -1,43 +1,32 @@
-import course1Content from '../static/course1.md';
-import course1Header from '../static/course1-header.md';
-import course2Content from '../static/course2.md';
-import course2Header from '../static/course2-header.md';
+const fm = require('front-matter');
+const slug = require('slug');
+const tutorials = require.context('../static/', true, /^\.\/.*\.md/);
 
 export default class TutorialContent {
   constructor() {
-    this.one = {
-      title: 'course 1',
-      slug: this.slugify('course 1'),
-      date: '2017-01-11',
-      tags: ['petit chat', 'poil'],
-      header: course1Header,
-      content: course1Content,
-      basics: []
-    };
-    this.two = {
-      title: 'course 2',
-      slug: this.slugify('course 2'),
-      date: '2017-01-11',
-      tags: ['chaton', 'mignon'],
-      header: course2Header,
-      content: course2Content,
-      basics: [
-        {
-          title: this.one.title,
-          slug: this.one.slug
-        }
-      ]
-    };
-  }
-  slugify(text) {
-    return text.toString().toLowerCase()
-      .replace(/\s+/g, '-')           // Replace spaces with -
-      .replace(/[^\w\-]+/g, '')       // Remove all non-word chars
-      .replace(/\-\-+/g, '-')         // Replace multiple - with single -
-      .replace(/^-+/, '')             // Trim - from start of text
-      .replace(/-+$/, '');            // Trim - from end of text
+    this.courseSlugs = tutorials.keys().map((file) => {
+      let tutorial = fm(tutorials(file));
+
+      this[slug(tutorial.attributes.title)] = {
+        title: tutorial.attributes.title,
+        slug: slug(tutorial.attributes.title),
+        ogDescription: tutorial.attributes.ogDescription,
+        ogImage: tutorial.attributes.ogImage,
+        subtitle: tutorial.attributes.subtitle,
+        date: tutorial.attributes.date,
+        tags: tutorial.attributes.tags ? tutorial.attributes.tags : [],
+        basics: tutorial.attributes.basics ? 
+        tutorial.attributes.basics.map((basic => ({title: basic, slug: slug(basic)}))) : 
+        [],
+        published: tutorial.attributes.published,
+        reward: tutorial.attributes.reward,
+        header: tutorial.attributes.header,
+        content: tutorial.body
+      };
+      return slug(tutorial.attributes.title);
+    });
   }
   get content() {
-    return [this.one, this.two];
+    return this.courseSlugs.map((slug) => this[slug]);
   }
 }
