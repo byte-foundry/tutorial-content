@@ -7,11 +7,12 @@ date: 2017-01-11
 tags:
 - chaton
 - mignon
+readingTime: 20
 basics:
 published: true
 reward: Un café chez prototypo
 header: |
-  ![Tutorial illustration](https://placekitten.com/g/1920/400)
+  ![Tutorial illustration](https://placekitten.com/g/1200/600)
 
    - course 1
   Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum obcaecati sapiente doloremque exercitationem possimus, quo veritatis dicta consectetur maxime. Reiciendis laboriosam nostrum, cupiditate esse magnam quisquam, excepturi dolores voluptates.

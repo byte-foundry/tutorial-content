@@ -14,6 +14,7 @@ export default class TutorialContent {
         ogImage: tutorial.attributes.ogImage,
         subtitle: tutorial.attributes.subtitle,
         date: tutorial.attributes.date,
+        readingTime: tutorial.attributes.readingTime,
         tags: tutorial.attributes.tags ? tutorial.attributes.tags : [],
         basics: tutorial.attributes.basics ? 
         tutorial.attributes.basics.map((basic => ({title: basic, slug: slug(basic)}))) : 

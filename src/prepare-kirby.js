@@ -66,6 +66,12 @@ Date: ${course.date}
 ----
 
 
+Readingtime: ${course.readingTime}
+ 
+ 
+----
+
+
 Published: ${course.published}
 
 

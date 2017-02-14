@@ -39,6 +39,12 @@ Date: Wed Jan 11 2017 01:00:00 GMT+0100 (Paris, Madrid)
 ----
 
 
+Readingtime: 20
+ 
+ 
+----
+
+
 Published: true
 
 
@@ -58,7 +64,7 @@ Subtitle: sous-titre du cours
  
  
 Header:
-![Tutorial illustration](https://placekitten.com/g/1920/400)
+![Tutorial illustration](https://placekitten.com/g/1200/600)
 
  - course 1
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum obcaecati sapiente doloremque exercitationem possimus, quo veritatis dicta consectetur maxime. Reiciendis laboriosam nostrum, cupiditate esse magnam quisquam, excepturi dolores voluptates.

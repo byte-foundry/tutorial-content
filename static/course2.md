@@ -7,12 +7,13 @@ date: 2017-01-13
 tags:
 - petit chat
 - poil
+readingTime: 25
 basics:
 - Course 1 title
 published: true
 reward: Un paquet de chips
 header: |
-  ![Tutorial illustration](https://placekitten.com/g/1920/400)
+  ![Tutorial illustration](https://placekitten.com/g/1200/300)
 
    - course 2
   Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum obcaecati sapiente doloremque exercitationem possimus, quo veritatis dicta consectetur maxime. Reiciendis laboriosam nostrum, cupiditate esse magnam quisquam, excepturi dolores voluptates.
