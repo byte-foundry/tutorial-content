@@ -2,7 +2,7 @@
 title: Course 2 title
 ogDescription: Description du cours pour préparer les méta OG
 ogImage: https://placekitten.com/g/1200/300
-headerImage: 
+headerImage: https://placekitten.com/g/1200/300
 subtitle: sous-titre du cours
 date: 2017-01-13
 tags:
