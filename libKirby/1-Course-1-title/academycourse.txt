@@ -15,6 +15,12 @@ Ogimage: null
  
  
 ----
+
+
+headerImage: https://placekitten.com/g/1200/600
+
+
+----
  
 
 Tags: chaton,mignon
@@ -64,14 +70,7 @@ Subtitle: sous-titre du cours
  
  
 Header:
-![Tutorial illustration](https://placekitten.com/g/1200/600)
-
- - course 1
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum obcaecati sapiente doloremque exercitationem possimus, quo veritatis dicta consectetur maxime. Reiciendis laboriosam nostrum, cupiditate esse magnam quisquam, excepturi dolores voluptates.
-
-*By completing this course you will earn*
-
-- Un café chez Prototypo
 
  
  

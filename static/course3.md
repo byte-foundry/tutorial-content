@@ -2,6 +2,7 @@
 title: Course 3 title
 ogDescription: Description du cours pour préparer les méta OG
 ogImage:
+headerImage: https://placekitten.com/g/1400/800
 subtitle: sous-titre du cours
 date: 2017-01-18
 tags:
@@ -13,14 +14,7 @@ readingTime: 10
 published: true
 reward: Un paquet de chips
 header: |
-  ![Tutorial illustration](https://placekitten.com/g/1400/800)
-
-   - course 3
   Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum obcaecati sapiente doloremque exercitationem possimus, quo veritatis dicta consectetur maxime. Reiciendis laboriosam nostrum, cupiditate esse magnam quisquam, excepturi dolores voluptates.
-
-  *By completing this course you will earn*
-
-  - Un paquet de chips
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum obcaecati sapiente doloremque exercitationem possimus, quo veritatis dicta consectetur maxime. Reiciendis laboriosam nostrum, cupiditate esse magnam quisquam, excepturi dolores voluptates.

@@ -42,6 +42,12 @@ Ogimage: ${course.ogImage}
  
  
 ----
+
+
+headerImage: ${course.headerImage}
+
+
+----
  
 
 ${course.tags && course.tags.length > 0 ? ('Tags: ' + course.tags.map((tag, index) => tag)) : ''}

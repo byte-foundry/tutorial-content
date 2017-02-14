@@ -2,6 +2,7 @@
 title: Course 1 title
 ogDescription: Description du cours pour préparer les méta OG
 ogImage:
+headerImage: https://placekitten.com/g/1200/600
 subtitle: sous-titre du cours
 date: 2017-01-11
 tags:
@@ -12,14 +13,7 @@ basics:
 published: true
 reward: Un café chez prototypo
 header: |
-  ![Tutorial illustration](https://placekitten.com/g/1200/600)
-
-   - course 1
   Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum obcaecati sapiente doloremque exercitationem possimus, quo veritatis dicta consectetur maxime. Reiciendis laboriosam nostrum, cupiditate esse magnam quisquam, excepturi dolores voluptates.
-
-  *By completing this course you will earn*
-
-  - Un café chez Prototypo
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum obcaecati sapiente doloremque exercitationem possimus, quo veritatis dicta consectetur maxime. Reiciendis laboriosam nostrum, cupiditate esse magnam quisquam, excepturi dolores voluptates.

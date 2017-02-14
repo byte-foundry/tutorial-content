@@ -12,6 +12,7 @@ export default class TutorialContent {
         slug: slug(tutorial.attributes.title),
         ogDescription: tutorial.attributes.ogDescription,
         ogImage: tutorial.attributes.ogImage,
+        headerImage: tutorial.attributes.headerImage,
         subtitle: tutorial.attributes.subtitle,
         date: tutorial.attributes.date,
         readingTime: tutorial.attributes.readingTime,

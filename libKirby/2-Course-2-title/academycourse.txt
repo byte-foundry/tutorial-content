@@ -11,9 +11,15 @@ Ogdescription: Description du cours pour préparer les méta OG
 ----
  
  
-Ogimage: null
+Ogimage: https://placekitten.com/g/1200/300
  
  
+----
+
+
+headerImage: null
+
+
 ----
  
 
@@ -64,14 +70,7 @@ Subtitle: sous-titre du cours
  
  
 Header:
-![Tutorial illustration](https://placekitten.com/g/1200/300)
-
- - course 2
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum obcaecati sapiente doloremque exercitationem possimus, quo veritatis dicta consectetur maxime. Reiciendis laboriosam nostrum, cupiditate esse magnam quisquam, excepturi dolores voluptates.
-
-*By completing this course you will earn*
-
-- Un paquet de chips
 
  
  
