@@ -29,12 +29,12 @@ Tags: petit chat,poil
 ----
  
 
-Basicsurl: course-3-title
+Basicsurl: Course-2-title
  
 ----
  
 
-Basicstitle: course 3 title
+Basicstitle: Course 2 title
  
 ----
  

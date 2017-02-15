@@ -9,7 +9,7 @@ tags:
 - petit chat
 - poil
 basics:
-- course 3 title
+- Course 2 title
 readingTime: 10
 published: true
 reward: Un paquet de chips
