@@ -44,7 +44,7 @@ Ogimage: ${course.ogImage}
 ----
 
 
-headerImage: ${course.headerImage}
+Headerimage: ${course.headerImage}
 
 
 ----
