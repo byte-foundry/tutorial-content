@@ -17,7 +17,7 @@ Ogimage: null
 ----
 
 
-headerImage: https://placekitten.com/g/1200/600
+Headerimage: https://placekitten.com/g/1200/600
 
 
 ----

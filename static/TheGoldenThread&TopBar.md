@@ -4,15 +4,15 @@ ogDescription: Tutorial about the golden thread and how to use it
 ogImage:
 headerImage: https://placekitten.com/g/1200/600
 subtitle: What's the golden thread and the top bar?
-date: 2017-01-11
+date: 2017-03-20
 tags:
 - golden
 - thread
 - top bar
 readingTime: 20
-basics: The Golden Thread & Top Bar
+basics:
 published: true
-reward: xxxxx
+reward:
 header: |
   The Golden Thread and the Top bar are essential tools for anyone using Prototypo. In this tutorial we will cover what's in both those tools and how to use them.
 ---
