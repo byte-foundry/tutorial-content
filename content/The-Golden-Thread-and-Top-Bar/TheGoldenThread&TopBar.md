@@ -1,9 +1,9 @@
 ---
-title: The Golden Thread & Top Bar
-ogDescription: Tutorial about the golden thread and how to use it
+title: Breadcrumbs & Top Bar
+ogDescription: Tutorial about the breadcrumbs and how to use it
 ogImage:
 headerImage: https://placekitten.com/g/1200/600
-subtitle: What's the golden thread and the top bar?
+subtitle: What breadcrumbs and the top bar are used for?
 date: 2017-03-20
 tags:
 - golden
@@ -16,59 +16,49 @@ objective: how to use the golden thread and the top bar
 published: true
 reward:
 header: |
-  The Golden Thread and the Top bar are essential tools for anyone using Prototypo. In this tutorial we will cover what's in both those tools and how to use them.
+  The Breadcrumbs and the Top bar are essential tools for anyone using Prototypo. In this tutorial we will cover what's in both those tools and how to use them.
 ---
 
 ## Intro
 
 
+
+
+> The Breadcrumbs and the Top bar are essential tools for anyone using Prototypo. They are linked to eachother and give you access to your projects or to the typeface you're working on from different angles. In this tutorial we will cover what those tools are and how to use them.
+
+
+## The Breadcrumbs
 ![Tutorial illustration](goldenthreadgifcomp2.gif)
 
+### The Breadcrumbs is an area in which you will have access to everything you need to navigate between your projects and the Typeface you're working on.
 
-### The Golden Thread and the Top bar are essential tools for anyone using Prototypo. They are linked to eachother and give you an access to your projects or to the Typeface you're working on from different angles. In this tutorial we will cover what those tools are and how to use them.
-
-
-## The Golden Thread
-![Tutorial illustration](IA7NfHu.jpg)
-
-### The Golden Thread is an area in which you will have access to everything you need to navigate between your projects and the Typeface you're working on.
-
-
-First, let's cover what is inside the Golden Thread in Prototypo:
-
-
-- You have the Collection icon  which is the "My Collection" button. It leads you to your typeface family collection, containing everything you've already created using Prototypo. When accessing it you can also create a new family, change family names, add variants or delete family.
-- You can use this icon to see everything you've already worked on and apply change to the whole "editorial" part of the typeface family: names, styles.
-
+First, let's cover what is inside the Breadcrumbs in Prototypo:
 
 ![icon](fYauDKj.jpg)
  
- 
 ![collection](CollectionGif.gif)
- 
- 
-To get back to  the application, simply click on the "Revert Arrow" button 
+
+The Collection button leads you to your typeface family collection. It contains everything you've already created using Prototypo. When accessing it you can also create a new family, change family names, add variants or delete family. You can use this icon to see everything you've already worked on and apply change to the whole "editorial" part of the typeface family: names, styles.
+
+To get back to  the application, simply click on the back button 
 
 
 ![icon](fXZkWP0.jpg)
 
+### Families, variants and groups
 
-- The Family name of the typeface you're working on: a simple way to both let you know which project you're in and switch from one project to the other.
-- You can use it to see which project you're working on and switch from one Typeface Family to the other. A really handy tool when you're working on multiple projects.
-  
-  
+The second part of the breadcrumbs is divided into three parts. The Families, the variants and the glyph groups.
+
+The Family name of the typeface you're working on: a simple way to both let you know which project you're in and switch from one project to the other. You can use it to see which project you're working on and switch from one Typeface Family to the other. A really handy tool when you're working on multiple projects.
+
 ![newfamily](1489495934142.gif)
 
-
-- Style of the Typeface you're working on: you can click on that button to add a new variant to the typeface family.
-- You can use it to add a new variant or easily switch from one variant (typeface style) to the other. When you click on "Add new variant", a pop-up window will show, you can add a new variant name or choose a variant from the list Prototypo offers you and that Variant's style will be added to your existing typeface along with its specific design details. For example, if you choose to add a Thin Italic version to your existing font, the Variant added this way will be a Thin Italic version.
-
+Variants of the Typeface you're working on: you can click on that button to add a new variant to the typeface family. You can use it to add a new variant or easily switch from one variant (typeface style) to the other. When you click on "Add new variant", a pop-up window will show, you can add a new variant name or choose a variant from the list Prototypo offers you and that Variant's style will be added to your existing typeface along with its specific design details. For example, if you choose to add a Thin Italic version to your existing font, the new variant will be a thinner and slanted.
 
 ![variant](1489495520336.gif)
 
-
-- All Glyphs button / All glyph slider: those allow you to switch between the All Glyphs view and the Group of Glyph view.
-- You can use those to create certain groups of letters which you can modify independently from the rest of the font 
+All Glyphs button / All glyph slider: those allow you to switch between the All Glyphs mode and the Group of Glyph mode.
+You can use those to create certain groups of letters which you can modify independently from the rest of the font. Glyph groups are a powerful tool that lets you create highly customized and precise typeface. You can learn more about them in the own course.
 
 
 ![variant](1489496431987.gif) 
@@ -103,5 +93,5 @@ To get back to  the application, simply click on the "Revert Arrow" button
 
 ![icon](1489498146563.gif)
 
-### And that concludes our tutorial about the Golden Thread and the Top Bar ! Congratulations !
+## And that concludes our tutorial about the Golden Thread and the Top Bar ! Congratulations !
 
