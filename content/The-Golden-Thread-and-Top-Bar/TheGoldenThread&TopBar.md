@@ -21,22 +21,19 @@ header: |
 
 ## Intro
 
+![Tutorial illustration](goldenthreadgifcomp2.gif)
 
-
-
-> The Breadcrumbs and the Top bar are essential tools for anyone using Prototypo. They are linked to eachother and give you access to your projects or to the typeface you're working on from different angles. In this tutorial we will cover what those tools are and how to use them.
+The Breadcrumbs and the Top bar are essential tools for anyone using Prototypo. They are linked to eachother and give you access to your projects or to the typeface you're working on from different angles. In this tutorial we will cover what those tools are and how to use them.
 
 
 ## The Breadcrumbs
-![Tutorial illustration](goldenthreadgifcomp2.gif)
+![Tutorial illustration](IA7NfHu.jpg)
 
-### The Breadcrumbs is an area in which you will have access to everything you need to navigate between your projects and the Typeface you're working on.
+> The Breadcrumbs is an area in which you will have access to everything you need to navigate between your projects and the Typeface you're working on.
 
 First, let's cover what is inside the Breadcrumbs in Prototypo:
 
-![icon](fYauDKj.jpg)
- 
-![collection](CollectionGif.gif)
+![collection](https://gifyu.com/images/CollectionGif.gif)
 
 The Collection button leads you to your typeface family collection. It contains everything you've already created using Prototypo. When accessing it you can also create a new family, change family names, add variants or delete family. You can use this icon to see everything you've already worked on and apply change to the whole "editorial" part of the typeface family: names, styles.
 
