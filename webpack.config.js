@@ -11,10 +11,10 @@ var plugins = [], outputFile;
 plugins.push(new UglifyJsPlugin({ minimize: true }));
 outputFile = libraryName + '.js';
 plugins.push(new WebpackShellPlugin({
-  onBuildEnd: ['node src/prepare-kirby.js']
+  onBuildEnd: ['node src/prepare-kirby.js', 'node src/copy-assets.js']
 }));
 
-var config = {
+let config = {
   entry: __dirname + '/src/index.js',
   output: {
     path: __dirname + '/lib',
@@ -32,13 +32,17 @@ var config = {
       },
       {
         test: /(\.jsx|\.js)$/,
-        loader: "eslint-loader",
+        loader: 'eslint-loader',
         exclude: /node_modules/
       },
       { 
         test: /\.md$/, 
         loader: 'raw-loader'
       },
+      {
+        test: /\.(jpe?g|png|gif|svg)$/i,
+        loader: 'url-loader?limit=100000'
+      }
     ]
   },
   resolve: {

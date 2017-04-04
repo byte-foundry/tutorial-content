@@ -1,25 +1,12 @@
-let fs = require('fs');
+let fs = require('fs-extra');
 let TutorialContent = require('../lib/tutorial-content.js');
 let content = new TutorialContent().content;
-let deleteFolderRecursive = (path) => {
-  if (fs.existsSync(path)) {
-    fs.readdirSync(path).forEach((file, index) => {
-      let curPath = path + '/' + file;
-
-      if (fs.lstatSync(curPath).isDirectory()) { // recurse
-        deleteFolderRecursive(curPath);
-      } else { // delete file
-        fs.unlinkSync(curPath);
-      }
-    });
-    fs.rmdirSync(path);
-  }
-};
+let path = require('path');
 
 // clean libKirby directory
-deleteFolderRecursive(`${__dirname}/../libKirby`);
-// recreate it and loop through the courses
-fs.mkdir(`${__dirname}/../libKirby`, () => {
+fs.emptyDir(`${__dirname}/../libKirby`, err => {
+  if (err) return console.error(err);
+
   content.map((course, index) => {
     // create course folder
     fs.mkdir(`${__dirname}/../libKirby/${index + 1 }-${course.slug}`, () => {
@@ -102,7 +89,7 @@ ${course.header}
  
 ----
 Contentcourse:
-${course.content}
+${course.content.replace(/\!\[(.*?)\]\(/g, '(image: ')}
 `;
 
       fs.writeFile(
