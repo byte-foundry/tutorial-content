@@ -1,8 +1,6 @@
 const fm = require('front-matter');
 const slug = require('slug');
 const tutorials = require.context('../content/', true, /^\.\/.*\.md/);
-const images = require.context('../content/', true, /^\.\/.*\.(jpg|jpeg|gif|png|bmp)/);
-
 export default class TutorialContent {
   constructor() {
     this.courseSlugs = tutorials.keys().map((file) => {
@@ -35,8 +33,5 @@ export default class TutorialContent {
   }
   get content() {
     return this.courseSlugs.map((slug) => this[slug]);
-  }
-  getImage(slug, filename) {
-    return images(`./${slug}/${filename}`);
   }
 }
