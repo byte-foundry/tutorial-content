@@ -57,18 +57,49 @@ I'll go through all metadata to explain them
 ### The content
 
 #### Markdown
+
 You can use all the markdown syntax in your course content. 
 [You can see a markdown cheatsheet here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
 #### Html
+
 Basics html tags like `<sup>`, `<pre>`, `<kbd>` can also be used.
+
 #### Images
+
 You can reference image both remotely (an http link referencing an online image) or locally (just put your image in your course folder and put the image name in your markdown image tag)
+
 #### Videos
+
 You can put iframe links from websites like youtube into your course and it will be displayed as expected.
+
 #### Specific academy content
+
 In the Protoypo academy, we use the `H2` titles as a specific manner. You should put H2 titles only for the main parts of your course, and stay with `H3` and below to structure your parts.
 
 H1 should be reserved for course titles, but it's not mandatory to put one as the title (from the metatag) is already displayed in the page
+
+## Adding a course
+
+If you're not used to work with *forks*, *branchs*, and *pull requests*, don't worry, everything can be done here on github, you just have to be logged into your account.
+
+### Prerequisites
+
+To add a course, you should write your `.md` file using a markdown editor. There are many awesomes markdown editors available for free online, and I recommend [Typora](http://www.typora.io) for Windows and [MacDown](https://macdown.uranusjr.com) for MacOs.
+The **How to write a course** section above is a great resource to help you structure your course file
+
+### Creating your pull request
+
+1. Go to the ***content*** folder of this repository
+   ![image 1](http://i.imgur.com/YKcRSAq.png)
+2. Create a folder **that matches the title of your course** containing the markdown files and your images (if you have any) and drag it into the github window
+   ![image 2](http://i.imgur.com/DgQfVFd.png)
+3. Check if all your files are uploaded, put the name of your pull request and its description and tick ***Create a new branch for this commit and start a pull request***
+   You should name your branch `course/mycoursename`
+   ![image3](http://i.imgur.com/cq9AlfF.png)
+4. Click on ***Create pull request*** and you're done! We will review your submission as soon as we can.
+   ![image4](http://i.imgur.com/L0Flcqr.png)
+   Thanks for contributing!
 
 ## Making a sense of this code-base
 
