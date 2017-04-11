@@ -6,7 +6,7 @@ let path = require('path');
 content.map((course, index) => {
   // copy kirby images
   fs.copy(
-    `${__dirname}/../content/${course.slug}`,
+    `${__dirname}/../content/${course.title}`,
     `${__dirname}/../libKirby/${index + 1 }-${course.slug}`,
     {
       filter: n => {

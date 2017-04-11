@@ -6,9 +6,11 @@ headerImage: https://raw.github.com/adam-p/markdown-here/master/src/common/image
 subtitle: Sample markdown plaground
 date: 2017-03-31
 tags:
-- playground
+- Demo
+- Text
 readingTime: 5
 basics:
+- Video Sample
 isVideo: false
 objective: see how the layout is like
 published: true

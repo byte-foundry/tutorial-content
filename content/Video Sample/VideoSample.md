@@ -6,7 +6,8 @@ headerImage: https://placekitten.com/g/1200/600
 subtitle: This is is a video sample course
 date: 2017-03-31
 tags:
-- video
+- Demo
+- Video
 readingTime: 20
 basics:
 isVideo: true

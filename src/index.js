@@ -1,6 +1,7 @@
 const fm = require('front-matter');
 const slug = require('slug');
 const tutorials = require.context('../content/', true, /^\.\/.*\.md/);
+
 export default class TutorialContent {
   constructor() {
     this.courseSlugs = tutorials.keys().map((file) => {

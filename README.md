@@ -27,7 +27,48 @@ To summarize:
 - Rebuild the app and the website, installing the new library version
 - Done!
 
+## How to write a course
 
+### Starting up
+
+To start with a new course, you have to create a folder for it that **have** to match the exact title of your file. Then you put your markdown file inside and you're ready to write!
+
+### Metadatas
+
+We use yaml front-matter to get extra data for the course, like the reading time, the rewards and so on, so it's best for you to use an existing course to write yours in order to get everything right.
+
+I'll go through all metadata to explain them
+
+- **title**: self explanatory, the title of the course. Be sure to check if the title matck the folder name, especially if you put local images on the folder.
+- **ogDescription**: used on the website for referencing
+- **ogImage** used on the website for referencing as well, it's best to put there an hosted image, on website like imgur.
+- **headerImage**: the image you'll see on the academy homepage, on both the app and the website
+- **subtitle**: the course description that will be on the academy homepage
+- **date**: used to sort the courses on the website.
+- **tags**: used to filter the courses. Don't use them lihe hashtags! Keep a small number of tags across all courses to get the filtering process easier for the user
+- **readingTime**: a rough estimate of the course reading time
+- **basics**: if you want to reference one of more course to read before yours (like prerequisites), put the title of these course here, with the same syntax as the tags.
+- **isVideo**: if your course only contains a video, or is based around a single video, put this as true.
+- **objective**: a small line which summarize the purpose of this course. This will be visible on the app and will be preceeded by tomething like *you learned how to* **YOUR OBJECTIVE**.
+- **published** If you want your course visible or not.
+- **reward** If your course has a reward, otherwise leave it blank.
+- **header**: The header text of your course. It can be similar to the subtitle metatag. You can write markdown here, but preceed it with a `|` then a linebreak.
+
+### The content
+
+#### Markdown
+You can use all the markdown syntax in your course content. 
+[You can see a markdown cheatsheet here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+#### Html
+Basics html tags like `<sup>`, `<pre>`, `<kbd>` can also be used.
+#### Images
+You can reference image both remotely (an http link referencing an online image) or locally (just put your image in your course folder and put the image name in your markdown image tag)
+#### Videos
+You can put iframe links from websites like youtube into your course and it will be displayed as expected.
+#### Specific academy content
+In the Protoypo academy, we use the `H2` titles as a specific manner. You should put H2 titles only for the main parts of your course, and stay with `H3` and below to structure your parts.
+
+H1 should be reserved for course titles, but it's not mandatory to put one as the title (from the metatag) is already displayed in the page
 
 ## Making a sense of this code-base
 
@@ -45,10 +86,11 @@ The *src* folder is the main folder of this repository. It contains two files, n
 
 - **Index.js**:  This file contains an object `TutorialContent` which import the markdown content of all the courses, parse them and offers a getter in order to get the content and the additional information
 - **prepare-kirby.js**:  a post-build script that require the final library, generating the kirby static files. It erases everything in the libKirby folder and generates the new files getting the information from the UMD library.
+- **copy-assets.js**:  a post-build script that require the final library and copy all the tutorial assets in the right libKirby folder.
 
-### The *static* folder
+### The *content* folder
 
-The *static* folder contains the markdown files for the course. Only one markdown file is needed per course.
+The *content* folder contains the markdown files for the course. Only one markdown file and the relative images are needed per course.
 
 ### The *lib* and *libKirby* folder
 
@@ -56,11 +98,11 @@ The *lib* folder contains tutorial-content.js which is used in the App. To get t
 
 The *libKirby* folder contains one folder per course, all copied using gulp in the Prototypo Website library. No actions except copying them is needed to get them working on the website.
 
-### Coding style and conventions
+## Coding style and conventions
 
 Please install an ESLint and Editorconfig plugin for your code editor.
 Most coding rules are enforced by our eslint config. 
 
-### Test Coverage
+## Test Coverage
 
 TBD :(

@@ -38,10 +38,6 @@ let config = {
       { 
         test: /\.md$/, 
         loader: 'raw-loader'
-      },
-      {
-        test: /\.(jpe?g|png|gif|svg)$/i,
-        loader: 'url-loader?limit=100000'
       }
     ]
   },

@@ -1,6 +1,6 @@
 {
   "name": "tutorial-content",
-  "version": "2.3.0",
+  "version": "2.5.0",
   "description": "A repository sharing the content of prototypo tutorial",
   "main": "lib/tutorial-content.js",
   "scripts": {
@@ -33,7 +33,6 @@
     "markdown-loader": "^0.1.7",
     "raw-loader": "^0.5.1",
     "slug": "^0.9.1",
-    "url-loader": "^0.5.8",
     "webpack": "1.12.9",
     "webpack-shell-plugin": "^0.5.0",
     "yargs": "3.32.0"

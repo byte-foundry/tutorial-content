@@ -71,6 +71,12 @@ Published: ${course.published}
 ----
 
 
+Isvideo: ${course.isVideo}
+
+
+----
+
+
 Reward: ${course.reward}
 
 

@@ -23,7 +23,7 @@ Headerimage: https://placekitten.com/g/1200/600
 ----
  
 
-Tags: video
+Tags: Demo,Video
  
  
 ----
@@ -52,6 +52,12 @@ Readingtime: 20
 
 
 Published: true
+
+
+----
+
+
+Isvideo: true
 
 
 ----

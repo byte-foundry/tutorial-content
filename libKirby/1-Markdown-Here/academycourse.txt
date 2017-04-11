@@ -23,18 +23,18 @@ Headerimage: https://raw.github.com/adam-p/markdown-here/master/src/common/image
 ----
  
 
-Tags: playground
+Tags: Demo,Text
  
  
 ----
  
 
-
+Basicsurl: Video-Sample
  
 ----
  
 
-
+Basicstitle: Video Sample
  
 ----
  
@@ -52,6 +52,12 @@ Readingtime: 5
 
 
 Published: true
+
+
+----
+
+
+Isvideo: false
 
 
 ----
