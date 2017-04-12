@@ -39,7 +39,7 @@ Basicstitle: course 4 title,Course 3 title
 ----
  
  
-Date: Fri Jan 13 2017 01:00:00 GMT+0100 (Paris, Madrid)
+Date: Fri Jan 13 2017 01:00:00 GMT+0100 (CET)
  
  
 ----

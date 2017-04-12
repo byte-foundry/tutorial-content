@@ -39,7 +39,7 @@ Basicstitle: Course 2 title
 ----
  
  
-Date: Wed Jan 18 2017 01:00:00 GMT+0100 (Paris, Madrid)
+Date: Wed Jan 18 2017 01:00:00 GMT+0100 (CET)
  
  
 ----
