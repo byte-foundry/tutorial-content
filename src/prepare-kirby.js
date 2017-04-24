@@ -95,7 +95,20 @@ ${course.header}
  
 ----
 Contentcourse:
-${course.content.replace(/\!\[(.*?)\]\(/g, '(image: ')}
+${course.content.replace(/\!\[(.*?)\]\(/g, '(image: ')
+  .replace(/.*?<video((?:\s+\w+(?:\s*=\s*(?:(?:"[^"]*")|(?:'[^']*')|[^>\s]+))?)*)\s*(\/?)>.*<\/video>/g, 
+  ((tag, attributeStr) => {
+    let getAttributes = /(\S+)=["']?((?:.(?!["']?\s+(?:\S+)=|[>"']))+.)["']?/g;
+    let regexResult;
+    let returnstring = '(videoext:';
+
+    while ((regexResult = getAttributes.exec(attributeStr)) !== null) {
+      returnstring = `${returnstring} ${regexResult[1]}:${regexResult[2]}`;
+    }
+    returnstring = `${returnstring} )`;
+    return returnstring.replace(/(type:video\/)(\S*)/g, (match, prev, type) => {return `${type}:`;})
+    .replace(/(src:)/g, '');
+  }))}
 `;
 
       fs.writeFile(

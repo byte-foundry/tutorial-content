@@ -39,7 +39,7 @@ Tags: top bar
 ----
  
  
-Date: Mon Mar 20 2017 01:00:00 GMT+0100 (CET)
+Date: Mon Mar 20 2017 02:00:00 GMT+0200 (Paris, Madrid (heure d’été))
  
  
 ----

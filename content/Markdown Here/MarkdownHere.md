@@ -70,6 +70,8 @@ After installing, make sure to reload your webmail or restart Chrome!
 5. The *Markdown Here* extension should now be visible in your extensions list.
 6. Reload your webmail page (and maybe application) before trying to convert an email.
 
+<video type="video/webm" src="webmvp8.webm" loop="true" autoplay="true"></video>
+
 ### Firefox and Thunderbird
 
 #### Mozilla Add-ons site
