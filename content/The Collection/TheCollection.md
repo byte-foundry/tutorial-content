@@ -7,8 +7,8 @@ subtitle: What's the collection of families and variants?
 date: 2017-01-11
 tags:
 - Collection
-- thread
-- top bar
+- Variant
+- Families
 readingTime: 20
 basics: The Collection of families and variants
 published: true
