@@ -19,7 +19,7 @@ header: |
 
 ## What is it?
 
-![Tutorial illustration](The-CollectionIntro.gif)
+![Tutorial illustration](CollectionIntro.gif)
 
 The Collection of families and variants is a name Prototypo gives to an area where you can access your different projects and modify them. In this tutorial we will see how to access it and how it works. Being able to review your previous work, enhance it or add new project is a powerful asset when it comes to such a thing as complex as type design.
 
