@@ -31,9 +31,11 @@ As previously stated, the Collection is an area in Prototypo where you can acces
 
 ### Family Actions & Variants Actions
 
-![Changing a family name and adding a variant](VariantsThin.gif)
+![Changing a family name](ChangingFamilyName.gif)
 
 In the "Family Actions" area, next to the Collection one, you can Change the family name of your typeface, Delete it and Create and/or access Variants to your font. You can either create a new variant of your own and choosing a name for it or select one in the pre-existing list given by Prototypo.
+
+![Adding a variant](VariantsThin.gif)
 
 What's really neat about it is if you choose to add a "Thin Italic" version to your already existing font, it will not only create this Variant, it will also change its design to match the one of a "Thin Italic" one. Some of these informations are reminded in the "Breadcrumbs & Top bar" lesson.
 
