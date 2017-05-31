@@ -27,7 +27,7 @@ The Collection of families and variants is a name Prototypo gives to an area whe
 
 ![Creating a new family](TheCollectionName.gif)
 
-As previously stated, the Collection is an area in Prototypo where you can access your previous projects. You can create new typeface families by clicking the "Create new family" button. This will pop up a window allowing you to choose a family style (Elzevir, Grotesk or Fell) and a family name.
+As previously stated, the Collection is an area in Prototypo where you can access your previous projects. You can create new typeface families by clicking the "Create new family" button. This will pop up a window allowing you to choose a family style (Elzevir, Grotesk or Fell) and a family name or create your own by choosing a name.
 
 ### Family Actions & Variants Actions
 
@@ -37,10 +37,10 @@ In the "Family Actions" area, next to the Collection one, you can Change the fam
 
 ![Adding a variant](VariantsThin.gif)
 
-What's really neat about it is if you choose to add a "Thin Italic" version to your already existing font, it will not only create this Variant, it will also change its design to match the one of a "Thin Italic" one. Some of these informations are reminded in the "Breadcrumbs & Top bar" lesson.
+The Variant Actions allows you to open your Variant in Prototypo, change the Variant's name, Duplicate the Variant — which is really helpful when you are experimenting on a font and you still want to be able to easily go back to the previous stage of your project — or Delete it.
+
+What's really neat about the Variants pannel is that if you choose to add an "Italic" version to your already existing font, it will not only create this Variant, it will also change its design to match turn it into an actual Italic version. Some of these informations are reminded in the "Breadcrumbs & Top bar" lesson.
 
 ![Switching between variants](VariantsSwitch.gif)
-
-The Variant Actions allows you to open your Variant in Prototypo, change the Variant's name, Duplicate the Variant — which is really helpful when you are experimenting on a font and you still want to be able to easily go back to the previous stage of your project — or Delete it.
 
 ### And that concludes our tutorial about the Collection of families and Variants! Congratulations!
