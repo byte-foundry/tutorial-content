@@ -10,7 +10,8 @@ tags:
 - Variant
 - Families
 readingTime: 20
-basics: The Collection of families and variants
+basics: 
+- The Collection of families and variants
 published: true
 reward: xxxxx
 header: |

@@ -9,6 +9,7 @@ tags:
 - top bar
 readingTime: 20
 basics:
+- stuff
 isVideo: false
 objective: how to use the breadcrumbs and the top bar
 published: true
