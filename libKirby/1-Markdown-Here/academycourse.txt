@@ -39,7 +39,7 @@ Basicstitle: Video Sample
 ----
  
  
-Date: Fri Mar 31 2017 02:00:00 GMT+0200 (CEST)
+Date: Fri Mar 31 2017 02:00:00 GMT+0200 (Paris, Madrid (heure d’été))
  
  
 ----

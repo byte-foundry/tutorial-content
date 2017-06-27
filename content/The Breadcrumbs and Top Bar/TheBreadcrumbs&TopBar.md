@@ -2,14 +2,14 @@
 title: The Breadcrumbs and Top Bar
 ogDescription: Tutorial about the breadcrumbs and how to use it
 ogImage:
-headerImage: https://placekitten.com/g/1200/600
+headerImage: http://i.imgur.com/pzE27Om.png
 subtitle: What breadcrumbs and the top bar are used for?
 date: 2017-03-20
 tags:
-- top bar
-readingTime: 20
+  - Text
+  - Basics
+readingTime: 8
 basics:
-- stuff
 isVideo: false
 objective: how to use the breadcrumbs and the top bar
 published: true

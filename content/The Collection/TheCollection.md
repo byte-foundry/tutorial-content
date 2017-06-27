@@ -2,18 +2,17 @@
 title: The Collection
 ogDescription: Tutorial about the collection of families and variants
 ogImage:
-headerImage: https://placekitten.com/g/1200/600
+headerImage: http://i.imgur.com/FhjGNVB.png
 subtitle: What's the collection of families and variants?
 date: 2017-01-11
 tags:
-- Collection
-- Variant
-- Families
-readingTime: 20
-basics: 
-- The Collection of families and variants
+- Text
+- Basics
+readingTime: 4
+basics:
+objective: how to use the collection panel
 published: true
-reward: xxxxx
+reward:
 header: |
   The Collection of families and variants is a name Prototypo gives to an area where you can access your different projects and modify them. In this tutorial we will see how to access it and how it works.
 ---

@@ -17,35 +17,35 @@ Ogimage: null
 ----
 
 
-Headerimage: https://placekitten.com/g/1200/600
+Headerimage: http://i.imgur.com/pzE27Om.png
 
 
 ----
  
 
-Tags: top bar
+Tags: Text,Basics
  
  
 ----
  
 
-Basicsurl: stuff
+
  
 ----
  
 
-Basicstitle: stuff
+
  
 ----
  
  
-Date: Mon Mar 20 2017 01:00:00 GMT+0100 (CET)
+Date: Mon Mar 20 2017 01:00:00 GMT+0100 (Paris, Madrid)
  
  
 ----
 
 
-Readingtime: 20
+Readingtime: 8
  
  
 ----
@@ -82,6 +82,7 @@ The Breadcrumbs and the Top bar are essential tools for anyone using Prototypo. 
  
 ----
 Contentcourse:
+
 
 ## What's inside?
 
