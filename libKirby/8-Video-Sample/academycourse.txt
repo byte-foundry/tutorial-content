@@ -1,0 +1,86 @@
+
+Title: Video Sample
+ 
+ 
+----
+ 
+ 
+Ogdescription: Sample video course
+ 
+ 
+----
+ 
+ 
+Ogimage: null
+ 
+ 
+----
+
+
+Headerimage: https://placekitten.com/g/1200/600
+
+
+----
+ 
+
+Tags: Demo,Video
+ 
+ 
+----
+ 
+
+
+ 
+----
+ 
+
+
+ 
+----
+ 
+ 
+Date: Fri Mar 31 2017 02:00:00 GMT+0200 (Paris, Madrid (heure d’été))
+ 
+ 
+----
+
+
+Readingtime: 20
+ 
+ 
+----
+
+
+Published: true
+
+
+----
+
+
+Isvideo: true
+
+
+----
+
+
+Reward: null
+
+
+----
+
+
+Subtitle: This is is a video sample course
+
+
+----
+ 
+ 
+Header:
+This is is a video sample course to test the layout.
+
+ 
+ 
+----
+Contentcourse:
+
+<iframe width="670" height="376" src="https://www.youtube.com/embed/ISXUegwmGlU" frameborder="0" allowfullscreen></iframe>
