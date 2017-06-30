@@ -4,7 +4,7 @@ ogDescription: How to manage spacing in Prototypo?
 ogImage:
 headerImage: http://i.imgur.com/mr6XrCO.jpg
 subtitle: How to manage spacing in Prototypo?
-date: 2017-01-11
+date: 2017-01-10
 tags:
 - Text
 - Basics

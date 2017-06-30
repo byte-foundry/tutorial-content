@@ -14,7 +14,6 @@ content.map((course, index) => {
           console.log(`copied : ${n}`);
           return true;
         }
-        console.log(`skipped : ${n}`);
         return false;
       }
     }, err => {

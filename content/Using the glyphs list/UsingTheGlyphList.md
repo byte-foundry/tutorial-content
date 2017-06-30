@@ -4,7 +4,7 @@ ogDescription: How to use the Prototypo glyphs list
 ogImage:
 headerImage: http://i.imgur.com/xnAgMkn.jpg
 subtitle: What's the glyphs list, how to use it?
-date: 2017-01-11
+date: 2017-01-06
 tags:
 - Text
 - Basics

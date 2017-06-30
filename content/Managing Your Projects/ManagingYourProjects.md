@@ -4,7 +4,7 @@ ogDescription: How to manage your projects in prototypo
 ogImage:
 headerImage: http://i.imgur.com/FhjGNVB.png
 subtitle: How to manage your projects ?
-date: 2017-01-11
+date: 2017-01-01
 tags:
 - Text
 - Basics

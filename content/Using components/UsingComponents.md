@@ -4,7 +4,7 @@ ogDescription: What are the components in Prototypo and how to use them
 ogImage:
 headerImage: http://i.imgur.com/ZcFo2ar.png
 subtitle: What are the components in Prototypo and how to use them?
-date: 2017-01-11
+date: 2017-01-07
 tags:
 - Text
 - Basics

@@ -4,7 +4,7 @@ ogDescription: How to work with the three Prototypo views
 ogImage:
 headerImage: http://i.imgur.com/enNtVHA.jpg
 subtitle: How to work with the three Prototypo views?
-date: 2017-01-11
+date: 2017-01-02
 tags:
 - Text
 - Basics

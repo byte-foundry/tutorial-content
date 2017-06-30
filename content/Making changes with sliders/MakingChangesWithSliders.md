@@ -4,7 +4,7 @@ ogDescription: How to use the sliders
 ogImage:
 headerImage: http://i.imgur.com/f3tbWJb.jpg
 subtitle: Get to know the tool
-date: 2017-01-11
+date: 2017-01-05
 tags:
 - Text
 - Basics

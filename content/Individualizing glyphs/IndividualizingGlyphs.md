@@ -4,7 +4,7 @@ ogDescription: How to use the individualization feature
 ogImage:
 headerImage: http://i.imgur.com/B7Chb6l.jpg
 subtitle: Get to know the individualization tool
-date: 2017-01-11
+date: 2017-01-09
 tags:
 - Text
 - Basics
