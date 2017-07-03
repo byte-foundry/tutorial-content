@@ -1,5 +1,5 @@
 ---
-title: Spacing handling in Prototypo
+title: Spacing Handling in Prototypo
 ogDescription: How to manage spacing in Prototypo?
 ogImage:
 headerImage: http://i.imgur.com/mr6XrCO.jpg
@@ -14,11 +14,12 @@ objective: how to manage spacing in Prototypo
 published: true
 reward:
 header: |
-  While working on your project you might want to ajust the spacing. We will show you how to do it from two ways inside the app.
+  While working on your project you might want to adjust the spacing. We will show you how to do it from two ways inside the app.
 ---
 
-In typography, the concept of spacing is very important. Good letter shapes without the proper spacing will not be good to use. 
-A nice spacing optimize legibility, creating an even text "color" or visual texture between all characters, bringing rythm to the reading.
+In typography, the spacing of a font has a huge impact on its readability; it refers to the amount of space between the characters, and it’s as important as the letter itself.
+Good letter shapes without the proper spacing will not be good to use. 
+A nice spacing optimizes legibility, creating an even text "color" or visual texture between all characters, bringing rhythm to the reading.
 Think about a drawing in black and white. There needs to be white to let the black shine. The same can be applied for a logo or a typeface.
 
 ## Adjusting the global spacing from the sliders
@@ -46,6 +47,6 @@ We are working on several features to enhance the spacing modifications:
 
 * Change the spacing value by putting a number directly into the wordview when the glyph is selected
 * Dragging the green bars in the glyph view, just like how it is done on the word view.
-* Create an summary spacing table with all the spacing values for the project glypshet.
+* Create a summary spacing table with all the spacing values for the project glypshet.
 
 ### That's how you manage spacing in Prototypo. Thanks for reading!
