@@ -25,7 +25,7 @@ Ogdescription: ${course.ogDescription}
 ----
  
  
-Ogimage: ${course.ogImage}
+Ogimage: ${course.ogImage || course.headerImage}
  
  
 ----
