@@ -43,7 +43,7 @@ However, you can have very nice results and a lot of artistic possibilities by e
 
 If you need to try a specific value for a parameter, or even go further than the sliders allows you to go, click on the slider value.
 There, you can input any value you want and it will be set.
-![Sliders - input number](slider-inputmanual.gif)
+![Sliders - input number](slider-input-manual.gif)
 
 ## More info
 

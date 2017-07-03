@@ -37,7 +37,7 @@ First, let's cover what is inside the Breadcrumbs in Prototypo:
 
 ![collection](collection_intro.gif)
 
-The Collection button leads you to your typeface family collection. It contains everything you've already created using Prototypo. When accessing it you can also create a new family, change family names, add variants or delete family. You can use this icon to see everything you've already worked on and apply change to the whole &ldquo;editorial&rdquo; part of the typeface family: names, styles. You'll be able to learn more about the Collection in it's own course [Right here](#/academy/course/Collection)
+The Collection button leads you to your typeface family collection. It contains everything you've already created using Prototypo. When accessing it you can also create a new family, change family names, add variants or delete family. You can use this icon to see everything you've already worked on and apply change to the whole &ldquo;editorial&rdquo; part of the typeface family: names, styles. You'll be able to learn more about the Project list in its own course [Right here](/academy/course/Managing-your-projects)
 
 To get back to  the application, simply click on the back button 
 
@@ -58,7 +58,7 @@ You can use those to create certain groups of letters which you can modify indep
 
 ![choosing an indiv](indiv_bread_crumb.gif) 
 
-You'll learn more about individualization groups in our [Individualization Tutorial](#/academy/course/Individualize-Your-Glyphs)
+You'll learn more about individualization groups in our [Individualization Tutorial](/academy/course/Individualizing-glyphs)
 
 ### Now that we have covered what's the breadcrumbs, we can focus on the other part of this tutorial: the top bar.
 
@@ -96,7 +96,7 @@ This font is not merged. The glyphs are made of several different contours that 
 
 ![icon](rbroGP5.jpg)
 
-Individualize parameters gives you access to the individualization feature about which you can learn more in our [Individualization tutorial](#/academy/course/Individualize-Your-Glyphs). Undo/Redo (ctrl+Z / ctrl+Y). Reset All Parameters to / Reset All changes: both to be used if you want to revert back to the original template of the typeface you're working on.
+Individualize parameters gives you access to the individualization feature about which you can learn more in our [Individualization tutorial](/academy/course/Individualizing-glyphs). Undo/Redo (ctrl+Z / ctrl+Y). Reset All Parameters to / Reset All changes: both to be used if you want to revert back to the original template of the typeface you're working on.
 
 
 #### Window Menu
@@ -109,7 +109,7 @@ Window is a quick way to access the different Views available in Prototypo (and 
 To chat with Prototypo, access the FAQ, Restart the Tutorials, access the Academy.
 
 
-Your account button gets you to your Prototypo account dashboard containing every info you need to manage your subscription and billing, your profile (address and info about yourself), your billing history, etc. You can learn more about the account dashboard in our [Account tutorial](#/academy/course/Account).
+Your account button gets you to your Prototypo account dashboard containing every info you need to manage your subscription and billing, your profile (address and info about yourself), your billing history, etc. 
 
 #### Views
 

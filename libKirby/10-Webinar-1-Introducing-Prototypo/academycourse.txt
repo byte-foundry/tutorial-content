@@ -11,7 +11,7 @@ Ogdescription: Webinar 1 - Introducing Prototypo - Video
 ----
  
  
-Ogimage: null
+Ogimage: http://i.imgur.com/zhad0gx.jpg
  
  
 ----

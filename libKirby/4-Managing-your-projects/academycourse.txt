@@ -11,7 +11,7 @@ Ogdescription: How to manage your projects in prototypo
 ----
  
  
-Ogimage: null
+Ogimage: http://i.imgur.com/FhjGNVB.png
  
  
 ----
@@ -82,7 +82,6 @@ In this tutorial, we will see how to manage your families and variants, as well 
  
 ----
 Contentcourse:
-
 
 ## The basics
 

@@ -96,6 +96,7 @@ ${course.header}
 ----
 Contentcourse:
 ${course.content.replace(/\!\[(.*?)\]\(/g, '(image: ')
+  .replace(/\(\/academy\/course\/(.*?)\)/g, '(/academy/$1)')
   .replace(/.*?<video((?:\s+\w+(?:\s*=\s*(?:(?:"[^"]*")|(?:'[^']*')|[^>\s]+))?)*)\s*(\/?)>.*<\/video>/g, 
   ((tag, attributeStr) => {
     let getAttributes = /(\S+)=["']?((?:.(?!["']?\s+(?:\S+)=|[>"']))+.)["']?/g;

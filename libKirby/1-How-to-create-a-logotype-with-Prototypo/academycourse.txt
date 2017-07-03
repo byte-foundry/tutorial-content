@@ -11,7 +11,7 @@ Ogdescription: How to create a logotype with Prototypo - Video
 ----
  
  
-Ogimage: null
+Ogimage: http://i.imgur.com/7S3B8MB.jpg
  
  
 ----
