@@ -4,7 +4,7 @@ ogDescription: How to use the Prototypo glyphs list
 ogImage:
 headerImage: http://i.imgur.com/xnAgMkn.jpg
 subtitle: What's the glyphs list, how to use it?
-date: 2017-01-06
+date: 2017-06-30
 tags:
 - Text
 - Basics
@@ -59,5 +59,5 @@ Here are the results for *slash* : ![Glyphlist - resultSlash](result-slash.jpg)
 If you want to save a search and use it like a filter, you can click on the green pin icon next to the search box and it will save your search as a filter that you can pin just like those.
 
 ![Glyphlist - pinnedSearch](pinned-search.jpg)
- 
+
 ### Here you go, an overview of the glyph list!

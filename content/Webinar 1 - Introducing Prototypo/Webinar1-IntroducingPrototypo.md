@@ -4,7 +4,7 @@ ogDescription: Webinar 1 - Introducing Prototypo - Video
 ogImage:
 headerImage: http://i.imgur.com/zhad0gx.jpg
 subtitle: Webinar 1
-date: 2017-04-11
+date: 2017-07-05
 tags:
 - Video
 readingTime: 50
@@ -20,4 +20,3 @@ header: |
 
 
 This is the first Prototypo webinar, hosted by François which goes through all Prototypo features.
-

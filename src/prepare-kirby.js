@@ -1,7 +1,15 @@
 let fs = require('fs-extra');
 let TutorialContent = require('../lib/tutorial-content.js');
 let content = new TutorialContent().content;
-let path = require('path');
+
+const compare = function compare(a, b) {
+  const dateA = new Date(a.date).getTime();
+  const dateB = new Date(b.date).getTime();
+
+  return dateA > dateB ? 1 : -1;
+};
+
+content.sort(compare);
 
 // clean libKirby directory
 fs.emptyDir(`${__dirname}/../libKirby`, err => {
@@ -14,20 +22,20 @@ fs.emptyDir(`${__dirname}/../libKirby`, err => {
 
       let fileContent = `
 Title: ${course.title}
- 
- 
+
+
 ----
- 
- 
+
+
 Ogdescription: ${course.ogDescription}
- 
- 
+
+
 ----
- 
- 
+
+
 Ogimage: ${course.ogImage || course.headerImage}
- 
- 
+
+
 ----
 
 
@@ -35,33 +43,33 @@ Headerimage: ${course.headerImage}
 
 
 ----
- 
+
 
 ${course.tags && course.tags.length > 0 ? ('Tags: ' + course.tags.map((tag, index) => tag)) : ''}
- 
- 
+
+
 ----
- 
+
 
 ${course.basics && course.basics.length > 0 ? ('Basicsurl: ' + course.basics.map((basic, index) => basic.slug)) : ''}
- 
+
 ----
- 
+
 
 ${course.basics && course.basics.length > 0 ? ('Basicstitle: ' + course.basics.map((basic, index) => basic.title)) : ''}
- 
+
 ----
- 
- 
+
+
 Date: ${course.date}
- 
- 
+
+
 ----
 
 
 Readingtime: ${course.readingTime}
- 
- 
+
+
 ----
 
 
@@ -87,17 +95,17 @@ Subtitle: ${course.subtitle}
 
 
 ----
- 
- 
+
+
 Header:
 ${course.header}
- 
- 
+
+
 ----
 Contentcourse:
 ${course.content.replace(/\!\[(.*?)\]\(/g, '(image: ')
   .replace(/\(\/academy\/course\/(.*?)\)/g, '(/academy/$1)')
-  .replace(/.*?<video((?:\s+\w+(?:\s*=\s*(?:(?:"[^"]*")|(?:'[^']*')|[^>\s]+))?)*)\s*(\/?)>.*<\/video>/g, 
+  .replace(/.*?<video((?:\s+\w+(?:\s*=\s*(?:(?:"[^"]*")|(?:'[^']*')|[^>\s]+))?)*)\s*(\/?)>.*<\/video>/g,
   ((tag, attributeStr) => {
     let getAttributes = /(\S+)=["']?((?:.(?!["']?\s+(?:\S+)=|[>"']))+.)["']?/g;
     let regexResult;
@@ -123,4 +131,3 @@ ${course.content.replace(/\!\[(.*?)\]\(/g, '(image: ')
     });
   });
 });
-

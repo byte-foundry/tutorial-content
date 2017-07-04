@@ -4,7 +4,7 @@ ogDescription: How to use the sliders
 ogImage:
 headerImage: http://i.imgur.com/f3tbWJb.jpg
 subtitle: Get to know the tool
-date: 2017-01-05
+date: 2017-06-29
 tags:
 - Text
 - Basics
@@ -17,7 +17,7 @@ header: |
   You've seen sliders in the app. But do you know everything about them? Let's see that together.
 ---
 
-Working with the sliders is the first step in Prototypo's workflow. This tool allows you to quickly change the overall shape of the font and get to something close to your idea faster. 
+Working with the sliders is the first step in Prototypo's workflow. This tool allows you to quickly change the overall shape of the font and get to something close to your idea faster.
 Each slider has a label that shows the parameter that will be updated and the current value of the parameter.
 It can be moved from left to right by clicking and dragging your mouse on the black circle.
 
@@ -37,7 +37,7 @@ When pushing the sliders to their limit you might have noticed that the slider b
 ![Sliders - redzone](slider-redzone.gif)
 
 Don't worry, it's not a problem. We're just telling you that you are entering the *experimental* zone. It's still perfectly allowed to go onto this range, but you might have some issues with legibility or small font-size display.
-However, you can have very nice results and a lot of artistic possibilities by experimenting in these zones. 
+However, you can have very nice results and a lot of artistic possibilities by experimenting in these zones.
 
 ### Setting a manual value for a slider
 
@@ -54,7 +54,7 @@ If you want to get the default value for a slider, just hover a slider and click
 Not sure about the effect of a slider? Don't worry. Click on the **?** icon and a tooltip will slide open, showing what's the effect on a letter. You can circle through the slider by clicking on the arrow below it, and close it if you click on the close icon.
 ![Sliders - Toolip](slider-tooltip.gif)
 
-Sometimes, there are some sliders that are linked to another one, like this: 
+Sometimes, there are some sliders that are linked to another one, like this:
 ![Sliders - sub slider](slider-subslider.jpg).
 
 This means that this slider is a child of his parent, usually meaning that it can control a part of a parent slider. Like on the *Aperture* slider, where you can control the overall aperture, and also the top and the bottom aperture independently.

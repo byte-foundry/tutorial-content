@@ -4,7 +4,7 @@ ogDescription: How to manage spacing in Prototypo?
 ogImage:
 headerImage: http://i.imgur.com/mr6XrCO.jpg
 subtitle: How to manage spacing in Prototypo?
-date: 2017-01-10
+date: 2017-07-03
 tags:
 - Text
 - Basics
@@ -18,7 +18,7 @@ header: |
 ---
 
 In typography, the spacing of a font has a huge impact on its readability; it refers to the amount of space between the characters, and it’s as important as the letter itself.
-Good letter shapes without the proper spacing will not be good to use. 
+Good letter shapes without the proper spacing will not be good to use.
 A nice spacing optimizes legibility, creating an even text "color" or visual texture between all characters, bringing rhythm to the reading.
 Think about a drawing in black and white. There needs to be white to let the black shine. The same can be applied for a logo or a typeface.
 

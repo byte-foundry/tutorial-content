@@ -4,7 +4,7 @@ ogDescription: Tutorial about the breadcrumbs and how to use it
 ogImage:
 headerImage: http://i.imgur.com/pzE27Om.png
 subtitle: What breadcrumbs and the top bar are used for?
-date: 2017-01-03
+date: 2017-06-28
 tags:
   - Text
   - Basics
@@ -39,7 +39,7 @@ First, let's cover what is inside the Breadcrumbs in Prototypo:
 
 The Collection button leads you to your typeface family collection. It contains everything you've already created using Prototypo. When accessing it you can also create a new family, change family names, add variants or delete family. You can use this icon to see everything you've already worked on and apply change to the whole &ldquo;editorial&rdquo; part of the typeface family: names, styles. You'll be able to learn more about the Project list in its own course [Right here](/academy/course/Managing-your-projects)
 
-To get back to  the application, simply click on the back button 
+To get back to  the application, simply click on the back button
 
 ### Families, variants, and groups
 
@@ -56,7 +56,7 @@ Variants of the Typeface you're working on: you can click on that button to add 
 All Glyphs button / All glyph slider: those allow you to switch between the All Glyphs mode and the Group of Glyph mode.
 You can use those to create certain groups of letters which you can modify independently from the rest of the font. Glyph groups are a powerful tool that lets you create highly customized and precise typeface. You can learn more about them in the own course.
 
-![choosing an indiv](indiv_bread_crumb.gif) 
+![choosing an indiv](indiv_bread_crumb.gif)
 
 You'll learn more about individualization groups in our [Individualization Tutorial](/academy/course/Individualizing-glyphs)
 
@@ -67,8 +67,8 @@ You'll learn more about individualization groups in our [Individualization Tutor
 ![Tutorial](menus_small.gif)
 
 > The top bar is your usual software button area where you can manage several things linked both to you, the user, and to your projects.
- 
-### The File Menu 
+
+### The File Menu
 
 ![icon](NQnePBs.jpg)
 
@@ -109,13 +109,12 @@ Window is a quick way to access the different Views available in Prototypo (and 
 To chat with Prototypo, access the FAQ, Restart the Tutorials, access the Academy.
 
 
-Your account button gets you to your Prototypo account dashboard containing every info you need to manage your subscription and billing, your profile (address and info about yourself), your billing history, etc. 
+Your account button gets you to your Prototypo account dashboard containing every info you need to manage your subscription and billing, your profile (address and info about yourself), your billing history, etc.
 
 #### Views
 
 ![views top bar](views_topbar.gif)
 
-Glyph View allows you to see what you're doing on a specific letter and give you access to tools to modify said letters. Word View allows you to see the glyph modification changes on a sentence and also give you access to changing the sidebar of a glyph / Text view allows you to see the typeface modification when used in a text block (in different sizes). 
+Glyph View allows you to see what you're doing on a specific letter and give you access to tools to modify said letters. Word View allows you to see the glyph modification changes on a sentence and also give you access to changing the sidebar of a glyph / Text view allows you to see the typeface modification when used in a text block (in different sizes).
 
 ### And that concludes our tutorial about the breadcrumbs and the top bar! Congratulations!
-

@@ -4,7 +4,7 @@ ogDescription: How to create a logotype with Prototypo - Video
 ogImage:
 headerImage: http://i.imgur.com/7S3B8MB.jpg
 subtitle: Video tutorial 1
-date: 2017-01-12
+date: 2017-07-04
 tags:
 - Video
 readingTime: 4

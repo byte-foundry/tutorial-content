@@ -1,19 +1,19 @@
 
 Title: Managing your projects
- 
- 
+
+
 ----
- 
- 
+
+
 Ogdescription: How to manage your projects in prototypo
- 
- 
+
+
 ----
- 
- 
+
+
 Ogimage: http://i.imgur.com/FhjGNVB.png
- 
- 
+
+
 ----
 
 
@@ -21,33 +21,33 @@ Headerimage: http://i.imgur.com/FhjGNVB.png
 
 
 ----
- 
+
 
 Tags: Text,Basics
- 
- 
+
+
 ----
- 
 
 
- 
+
+
 ----
- 
 
 
- 
+
+
 ----
- 
- 
-Date: Sun Jan 01 2017 01:00:00 GMT+0100 (CET)
- 
- 
+
+
+Date: Mon Jun 26 2017 02:00:00 GMT+0200 (CEST)
+
+
 ----
 
 
 Readingtime: 5
- 
- 
+
+
 ----
 
 
@@ -73,13 +73,13 @@ Subtitle: How to manage your projects?
 
 
 ----
- 
- 
+
+
 Header:
 In this tutorial, we will see how to manage your families and variants, as well as some quick shortcuts to improve your workflow.
 
- 
- 
+
+
 ----
 Contentcourse:
 
@@ -88,7 +88,7 @@ Contentcourse:
 (image: CollectionIntro.gif)
 
 Managing your projects in Prototypo is important. Being able to review your previous work, enhance it or add new project is a powerful asset when it comes to such a thing as complex as type design.
-You can create several projects, called **families**. For each family, you can create as many **variants** as you want. You will open those variants on Prototypo and work with them. 
+You can create several projects, called **families**. For each family, you can create as many **variants** as you want. You will open those variants on Prototypo and work with them.
 
 ## Creating a new project
 

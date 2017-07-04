@@ -4,7 +4,7 @@ ogDescription: What are the components in Prototypo and how to use them
 ogImage:
 headerImage: http://i.imgur.com/ZcFo2ar.png
 subtitle: What are the components in Prototypo and how to use them?
-date: 2017-01-07
+date: 2017-07-01
 tags:
 - Text
 - Basics
@@ -49,12 +49,12 @@ If a glyph can have components, there are two possible cases:
 
 To apply or change a component, click on the component icon (the circle or the gray shape), and click on the component you want to apply on the menu that just opened.
 
-### In the future 
+### In the future
 
-We are planning to add new features to components: 
+We are planning to add new features to components:
 * Manually edit the components
 * Create a group similar to the individualization group and get all component changes made on this group applied to all members.
 
 Stay tuned for the new updates!
- 
+
 ### That's the end of our quick tutorial about components. I hope you will find this feature useful to your needs!

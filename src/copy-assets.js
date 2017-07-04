@@ -3,6 +3,15 @@ let TutorialContent = require('../lib/tutorial-content.js');
 let content = new TutorialContent().content;
 let path = require('path');
 
+const compare = function compare(a, b) {
+  const dateA = new Date(a.date).getTime();
+  const dateB = new Date(b.date).getTime();
+
+  return dateA > dateB ? 1 : -1;
+};
+
+content.sort(compare);
+
 content.map((course, index) => {
   // copy kirby images
   fs.copy(
@@ -20,4 +29,3 @@ content.map((course, index) => {
     if (err) return console.error(err);
   }, () => console.log('done'));
 });
-

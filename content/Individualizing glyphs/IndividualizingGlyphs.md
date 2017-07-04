@@ -4,12 +4,12 @@ ogDescription: How to use the individualization feature
 ogImage:
 headerImage: http://i.imgur.com/B7Chb6l.jpg
 subtitle: Get to know the individualization tool
-date: 2017-01-09
+date: 2017-07-02
 tags:
 - Text
 - Basics
 readingTime: 10
-basics: 
+basics:
 - Making changes with sliders
 objective: get to know the individualization feature
 published: true
@@ -22,7 +22,7 @@ header: |
 ![Indiv - overview](indiv-main.gif)
 
 Individualization groups are awesome if you want to tweak the shape of a specific set of glyphs.
-You can use this feature to make corrections, to get some diversity in your project or to make one character stand out, possibilities are endless! 
+You can use this feature to make corrections, to get some diversity in your project or to make one character stand out, possibilities are endless!
 
 In this course, you will get to know this feature, how to use it and to combine it with the regular view to make outstanding projects.
 
@@ -69,7 +69,7 @@ Just like the glyphs list, you can filter the glyphset displayed to find the nee
 #### Edit your groups
 ![Indiv - Create group](indiv-editordelete.gif)
 
-In the individualization mode, you have access to your group list. 
+In the individualization mode, you have access to your group list.
 You can rename, edit the glyphs in a group or remove the group easily.
 
 
@@ -77,7 +77,7 @@ You can rename, edit the glyphs in a group or remove the group easily.
 Once you have created your group, or selected an existing group and clicked on "open in Prototypo", you will be put in a yellow version of the app, which means that you are in the individualization mode.
 
 #### Switching groups
-You can see your active group on the last item of the breadcrumbs: 
+You can see your active group on the last item of the breadcrumbs:
 
 ![Indiv - Breadcrumbs](indiv-ariane.png)
 
@@ -92,9 +92,9 @@ You might also notice that the *text view* have changed a bit, like this:
 
 The black letters are the letters inside your actual individualization group. The gray ones are the other letters.
 
-#### Using the sliders 
+#### Using the sliders
 
-There is two new buttons in the slider view: 
+There is two new buttons in the slider view:
 
 ![Indiv - New buttons](indiv-absoluterelative.jpg)
 These buttons can enable two modes for the sliders: **relative** and **absolute**

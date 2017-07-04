@@ -1,19 +1,19 @@
 
 Title: The view system
- 
- 
+
+
 ----
- 
- 
+
+
 Ogdescription: How to work with the three Prototypo views
- 
- 
+
+
 ----
- 
- 
+
+
 Ogimage: http://i.imgur.com/enNtVHA.jpg
- 
- 
+
+
 ----
 
 
@@ -21,33 +21,33 @@ Headerimage: http://i.imgur.com/enNtVHA.jpg
 
 
 ----
- 
+
 
 Tags: Text,Basics
- 
- 
+
+
 ----
- 
 
 
- 
+
+
 ----
- 
 
 
- 
+
+
 ----
- 
- 
-Date: Mon Jan 02 2017 01:00:00 GMT+0100 (CET)
- 
- 
+
+
+Date: Tue Jun 27 2017 02:00:00 GMT+0200 (CEST)
+
+
 ----
 
 
 Readingtime: 10
- 
- 
+
+
 ----
 
 
@@ -73,13 +73,13 @@ Subtitle: How to work with the three Prototypo views?
 
 
 ----
- 
- 
+
+
 Header:
 There are three main views on the applications. How to work with them and use them correctly? Let's see.
 
- 
- 
+
+
 ----
 Contentcourse:
 
