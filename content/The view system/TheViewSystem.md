@@ -30,8 +30,8 @@ Each view has its purpose, and it's good to know how to manage and use them in o
 First off, **displaying** the views. On the top-right, there are three icons:  ![ViewSystem - View toogle](viewsystem-viewtoogle.jpg) that can be either green or white. Green means that the view is opened, and white that the view is hidden. You click on an icon to toggle the view display.
 You can also click on the close ![ViewSystem - Close icon](viewsystem-closeicon.jpg) icon to hide the view.
 
-Next, **resizing** the views. By default, the views are equally split on the interface but you might want to give more importance to a specific view. 
-To do that, click and drag on the border between each view to resize them. 
+Next, **resizing** the views. By default, the views are equally split on the interface but you might want to give more importance to a specific view.
+To do that, click and drag on the border between each view to resize them.
 
 ![ViewSystem - Switching view](viewsystem-resizeview.gif)
 
@@ -60,13 +60,13 @@ You can also type anything you want inside the view to preview your own text.
 ## The word view
 ![ViewSystem - Word view cover](viewsystem-wordviewcover.jpg)
 
-Working on a full text can be all you need, but often you will need more. If you want to work on a logo or fine-tune your project, the word view is a good thing to work with. With the word view, you can display any text that you want on a bigger scale than the text-view and work on the details. 
+Working on a full text can be all you need, but often you will need more. If you want to work on a logo or fine-tune your project, the word view is a good thing to work with. With the word view, you can display any text that you want on a bigger scale than the text-view and work on the details.
 
 To change the text displayed, click on the green bar below the Word view, and type the text that you want to be displayed.
 ![ViewSystem - Change text](viewsystem-wordviewchangetext.gif)
 
-One feature of the word view is to work on the spacing between letters. To do that, click on a glyph inside the word view and drag the green bars. 
-(Learn more about spacing in [our spacing course](/academy/course/Spacing-Handling-in-Prototypo).
+One feature of the word view is to work on the spacing between letters. To do that, click on a glyph inside the word view and drag the green bars.
+(Learn more about spacing in [our spacing course](/academy/course/Spacing-handling-in-Prototypo).
 
 ![ViewSystem - Word view spacing](viewsystem-wordspacing.jpg)
 
@@ -98,11 +98,11 @@ In this view, you can scroll to zoom. Press the **Z** key anytime to temporarily
 At the top of the view, there is a menu bar. Each symbol represents a feature inside the glyph view.
 
 ![ViewSystem - move glyph](viewsystem-move.jpg) the first menu is the **move** feature. In this feature, you can move your glyph inside the view by dragging it with your mouse. You can reset the view by double-clicking on the glyph view or right clicking / clicking on the wheel icon then click on *reset view*.
-You can temporarily go back to this view while keeping the **space** key pressed. 
+You can temporarily go back to this view while keeping the **space** key pressed.
 
 ![ViewSystem - components glyph](viewsystem-components.jpg) the second one is the components feature. It allows you to quickly add or remove components on this glyph. See [our components course](/academy/course/Using-Components) for more details on this feature.
 
-![ViewSystem - manual editing glyph](viewsystem-manualedit.jpg) the last menu item is the manual editing feature. In there, you have access to all the nodes composing the glyph. You can click on a node to show the controls. 
+![ViewSystem - manual editing glyph](viewsystem-manualedit.jpg) the last menu item is the manual editing feature. In there, you have access to all the nodes composing the glyph. You can click on a node to show the controls.
 Drag the node around to change its position, or drag the controls to get a more subtle change.
 
 You can reset the manual changes anytime by clicking on **Reset glyph**. You can also reset one node by clicking on the green arrow displayed if the node is selected, or press **ctrl + z** to undo one change.
@@ -114,5 +114,3 @@ And as always, you can right-click anywhere or click on the wheel icon to displa
 ![ViewSystem - Word menu](viewsystem-glyphmenu.jpg)
 
 ### Thanks for reading this course! I hope we have answered some questions that you had. See you on the next one!
-
-
