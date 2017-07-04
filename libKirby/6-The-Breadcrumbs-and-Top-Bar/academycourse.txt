@@ -83,6 +83,7 @@ The Breadcrumbs and the Top bar are essential tools for anyone using Prototypo. 
 ----
 Contentcourse:
 
+
 ## What's inside?
 
 (image: goldenthreadgifcomp2.gif)

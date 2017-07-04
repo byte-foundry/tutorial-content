@@ -83,6 +83,7 @@ There are three main views on the applications. How to work with them and use th
 ----
 Contentcourse:
 
+
 In Prototypo, there are three main views:
 * The **text** view
 * The **word** view
