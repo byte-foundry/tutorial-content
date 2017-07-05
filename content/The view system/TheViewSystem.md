@@ -46,7 +46,7 @@ To do that, click and drag on the border between each view to resize them.
 The text view role is to display a large block of text to get an overall view of your font.
 With this view, you can have a good realistic impression of your typeface balance and color and see the impact of your modification on a large scale.
 
-You can adjust the **zoom** factor by clicking on the icons on the top-left: ![ViewSystem - Textview zoom](viewsystem-rezize.jpg)
+You can adjust the **zoom** factor by clicking on the icons on the top-right: ![ViewSystem - Textview zoom](viewsystem-rezize.jpg)
 
 By clicking on the wheel icon or right-clicking anywhere in the text view, you can open the options menu and have more testing options like **inverted view** and **white on black** display.
 
