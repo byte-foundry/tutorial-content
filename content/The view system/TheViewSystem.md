@@ -66,7 +66,7 @@ To change the text displayed, click on the green bar below the Word view, and ty
 ![ViewSystem - Change text](viewsystem-wordviewchangetext.gif)
 
 One feature of the word view is to work on the spacing between letters. To do that, click on a glyph inside the word view and drag the green bars.
-(Learn more about spacing in [our spacing course](/academy/course/Spacing-Handling-in-Prototypo).)
+(Learn more about spacing in [our spacing course](/academy/course/Handling-the-spacing-in-Prototypo).)
 
 ![ViewSystem - Word view spacing](viewsystem-wordspacing.jpg)
 
