@@ -44,7 +44,7 @@ By ricgt-clicking a family on clicking on the wheel icon, you can either:
 ![Adding a variant](variantActions.gif)
 
 The variant panel on the right allows you to create a new variant by clicking on the ***add a new variant*** button.
-There, you can name your variant by typing on the input or choose a predefined variant, like an "Italic" version, not only will it create this Variant, it will also change its design to match an actual Italic version.
+There, you can name your variant by typing on the input or choose a predefined one, like an "Italic" version for instance. The action will create the variant and it will also change its design matching, in this case, with the Italic version. 
 
 Same as the family view, by right clicking or clicking on the wheel icon, you can access the variant actions. There, you can:
 * Change the **Variant's name**.

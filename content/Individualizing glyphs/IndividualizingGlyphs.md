@@ -100,6 +100,6 @@ There is two new buttons in the slider view:
 These buttons can enable two modes for the sliders: **relative** and **absolute**
 
 * ![Indiv - relative button](indiv-relative.png) When this icon is active, it means that the slider is in **relative** mode. Every change made to this slider will multiply the slider value for the overall font (that is set in green mode) with your individualization value. This is especially useful to make corrections to some glyphs.
-* ![Indiv - absolute button](indiv-absolute.png) If you do not get the expected result with the relative mode or just want an uncontrolled slider, the **absolute** mode might be for you. The changes made to this slider will be directly added or subtracted from the overall value. This can be useful if your overall slider is set to Zeroz if you want more contrast or just want to experiment with your font design.
+* ![Indiv - absolute button](indiv-absolute.png) If you do not get the expected result with the relative mode or just want an uncontrolled slider, the **absolute** mode might be for you. The changes made to this slider will be directly added or subtracted from the overall value. This can be useful if your overall slider is set to zero if you want more contrast or just want to experiment with your font design.
 
 ### We hope you found everything you needed to know about the individualization in this tutorial!

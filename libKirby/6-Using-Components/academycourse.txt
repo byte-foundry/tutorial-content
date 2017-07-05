@@ -1,5 +1,5 @@
 
-Title: Using Components
+Title: Using components
 
 
 ----
@@ -39,7 +39,7 @@ Tags: Text,Basics
 ----
 
 
-Date: Sat Jul 01 2017 02:00:00 GMT+0200 (CEST)
+Date: Sat Jul 01 2017 02:00:00 GMT+0200 (Paris, Madrid (heure d’été))
 
 
 ----
@@ -83,6 +83,7 @@ There is a feature in Prototypo called components. What are those and how to use
 ----
 Contentcourse:
 
+
 ## Components?
 
 >You found a template that fits your needs but it's not quite right?
@@ -118,7 +119,7 @@ To apply or change a component, click on the component icon (the circle or the g
 ### In the future
 
 We are planning to add new features to components:
-* Manually edit the components
+* Manually edit the components.
 * Create a group similar to the individualization group and get all component changes made on this group applied to all members.
 
 Stay tuned for the new updates!

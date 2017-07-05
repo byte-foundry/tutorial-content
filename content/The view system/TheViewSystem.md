@@ -14,13 +14,13 @@ objective: how to work with the three Prototypo views
 published: true
 reward:
 header: |
-  There are three main views on the applications. How to work with them and use them correctly? Let's see.
+  There are three main views on the application. How to work with them and use them correctly? Let's see.
 ---
 
 In Prototypo, there are three main views:
-* The **text** view
-* The **word** view
-* the **glyph** view
+* The **text** view.
+* The **word** view.
+* The **glyph** view.
 
 Each view has its purpose, and it's good to know how to manage and use them in order to feel comfortable while using the app.
 
@@ -66,11 +66,11 @@ To change the text displayed, click on the green bar below the Word view, and ty
 ![ViewSystem - Change text](viewsystem-wordviewchangetext.gif)
 
 One feature of the word view is to work on the spacing between letters. To do that, click on a glyph inside the word view and drag the green bars.
-(Learn more about spacing in [our spacing course](/academy/course/Spacing-Handling-in-Prototypo).
+(Learn more about spacing in [our spacing course](/academy/course/Spacing-Handling-in-Prototypo).)
 
 ![ViewSystem - Word view spacing](viewsystem-wordspacing.jpg)
 
-Just like in the text view, you can right-click anywhere or click on the wheel icon to display the word view menu. There, you can also invert the view or switch on the white on black mode.
+Just like in the text view, you can right-click anywhere or click on the wheel icon to display the word view menu. There, you can also invert the view or switch between a white or a black background.
 
 ![ViewSystem - Word menu](viewsystem-wordmenu.jpg)
 

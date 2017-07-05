@@ -1,5 +1,5 @@
 ---
-title: Using Components
+title: Using components
 ogDescription: What are the components in Prototypo and how to use them
 ogImage:
 headerImage: http://i.imgur.com/ZcFo2ar.png
@@ -52,7 +52,7 @@ To apply or change a component, click on the component icon (the circle or the g
 ### In the future
 
 We are planning to add new features to components:
-* Manually edit the components
+* Manually edit the components.
 * Create a group similar to the individualization group and get all component changes made on this group applied to all members.
 
 Stay tuned for the new updates!

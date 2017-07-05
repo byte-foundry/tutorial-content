@@ -1,5 +1,5 @@
 ---
-title: The Breadcrumbs and Top Bar
+title: The breadcrumbs and top bar
 ogDescription: Tutorial about the breadcrumbs and how to use it
 ogImage:
 headerImage: http://i.imgur.com/pzE27Om.png
@@ -15,7 +15,7 @@ objective: how to use the breadcrumbs and the top bar
 published: true
 reward:
 header: |
-  The Breadcrumbs and the Top bar are essential tools for anyone using Prototypo. In this tutorial we will cover what's in both those tools and how to use them.
+  The breadcrumbs and the top bar are essential tools for anyone using Prototypo. In this tutorial we will cover what's in both of those tools and how to use them.
 ---
 
 ## What's inside?
@@ -33,13 +33,13 @@ The breadcrumbs and the top bar are essential tools for anyone using Prototypo. 
 
 First, let's cover what is inside the Breadcrumbs in Prototypo:
 
-### Collection dashboard
+### Your project list
 
 ![collection](collection_intro.gif)
 
-The Collection button leads you to your typeface family collection. It contains everything you've already created using Prototypo. When accessing it you can also create a new family, change family names, add variants or delete family. You can use this icon to see everything you've already worked on and apply change to the whole &ldquo;editorial&rdquo; part of the typeface family: names, styles. You'll be able to learn more about the Project list in its own course [Right here](/academy/course/Managing-your-projects)
+The ** My projects ** button leads you to your typeface family collection. It contains everything you've already created using Prototypo. When accessing it you can also create a new family, change family names, add variants or delete family. You can use this button to see everything you've already worked on and apply change to the whole &ldquo;editorial&rdquo; part of the typeface family: names, styles. You'll be able to learn more about the project list in its own course [Right here](/academy/course/Managing-your-projects)
 
-To get back to  the application, simply click on the back button
+To get back to the application, simply click on the back button
 
 ### Families, variants, and groups
 
