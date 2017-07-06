@@ -22,7 +22,7 @@ header: |
 ![Tutorial illustration](CollectionIntro.gif)
 
 Managing your projects in Prototypo is important. Being able to review your previous work, enhance it or add new project is a powerful asset when it comes to such a thing as complex as type design.
-You can create several projects, called **families**. For each family, you can create as many **variants** as you want. You will open those variants on Prototypo and work with them.
+You can create several projects, called **families**. For each family, you can create as many **variants** as you want. You will open those variants in Prototypo and work with them.
 
 ## Creating a new project
 
@@ -35,7 +35,7 @@ Then, chose the template that matches your needs, name it and click on ***create
 
 ![Changing a family name](familyActions.gif)
 
-By ricgt-clicking a family on clicking on the wheel icon, you can either:
+By right-clicking a family or clicking on the wheel icon, you can either:
 * **Rename** a family
 * **Delete** it
 
