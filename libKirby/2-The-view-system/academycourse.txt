@@ -39,7 +39,7 @@ Tags: Text,Basics
 ----
 
 
-Date: Tue Jun 27 2017 02:00:00 GMT+0200 (Paris, Madrid (heure d’été))
+Date: Tue Jun 27 2017 02:00:00 GMT+0200 (CEST)
 
 
 ----
@@ -82,7 +82,6 @@ There are three main views on the application. How to work with them and use the
 
 ----
 Contentcourse:
-
 
 In Prototypo, there are three main views:
 * The **text** view.

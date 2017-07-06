@@ -39,7 +39,7 @@ Tags: Text,Basics
 ----
 
 
-Date: Mon Jun 26 2017 02:00:00 GMT+0200 (Paris, Madrid (heure d’été))
+Date: Mon Jun 26 2017 02:00:00 GMT+0200 (CEST)
 
 
 ----
@@ -83,13 +83,12 @@ In this tutorial, we will see how to manage your families and variants, as well 
 ----
 Contentcourse:
 
-
 ## The basics
 
 (image: CollectionIntro.gif)
 
 Managing your projects in Prototypo is important. Being able to review your previous work, enhance it or add new project is a powerful asset when it comes to such a thing as complex as type design.
-You can create several projects, called **families**. For each family, you can create as many **variants** as you want. You will open those variants on Prototypo and work with them.
+You can create several projects, called **families**. For each family, you can create as many **variants** as you want. You will open those variants in Prototypo and work with them.
 
 ## Creating a new project
 
@@ -102,7 +101,7 @@ Then, chose the template that matches your needs, name it and click on ***create
 
 (image: familyActions.gif)
 
-By ricgt-clicking a family on clicking on the wheel icon, you can either:
+By right-clicking a family or clicking on the wheel icon, you can either:
 * **Rename** a family
 * **Delete** it
 
