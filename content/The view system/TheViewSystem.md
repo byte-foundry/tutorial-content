@@ -100,7 +100,7 @@ At the top of the view, there is a menu bar. Each symbol represents a feature in
 ![ViewSystem - move glyph](viewsystem-move.jpg) the first menu is the **move** feature. In this feature, you can move your glyph inside the view by dragging it with your mouse. You can reset the view by double-clicking on the glyph view or right clicking / clicking on the wheel icon then click on *reset view*.
 You can temporarily go back to this view while keeping the **space** key pressed.
 
-![ViewSystem - components glyph](viewsystem-components.jpg) the second one is the components feature. It allows you to quickly add or remove components on this glyph. See [our components course](/academy/course/Using-Components) for more details on this feature.
+![ViewSystem - components glyph](viewsystem-components.jpg) the second one is the components feature. It allows you to quickly add or remove components on this glyph. See [our components course](/academy/course/Using-components) for more details on this feature.
 
 ![ViewSystem - manual editing glyph](viewsystem-manualedit.jpg) the last menu item is the manual editing feature. In there, you have access to all the nodes composing the glyph. You can click on a node to show the controls.
 Drag the node around to change its position, or drag the controls to get a more subtle change.
