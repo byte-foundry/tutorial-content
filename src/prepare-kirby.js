@@ -103,7 +103,7 @@ ${course.header}
 
 ----
 Contentcourse:
-${course.content.replace(/\!\[(.*?)\]\(/g, '(image: ')
+${course.content.replace(/\!\[(.*?)\]\((.*?)\)/g, '(image:$2)\n')
   .replace(/\(\/academy\/course\/(.*?)\)/g, '(/academy/$1)')
   .replace(/.*?<video((?:\s+\w+(?:\s*=\s*(?:(?:"[^"]*")|(?:'[^']*')|[^>\s]+))?)*)\s*(\/?)>.*<\/video>/g,
   ((tag, attributeStr) => {
