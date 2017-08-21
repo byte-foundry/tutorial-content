@@ -105,7 +105,7 @@ You can temporarily go back to this view while keeping the **space** key pressed
 ![ViewSystem - manual editing glyph](viewsystem-manualedit.jpg) the last menu item is the manual editing feature. In there, you have access to all the nodes composing the glyph. You can click on a node to show the controls.
 Drag the node around to change its position, or drag the controls to get a more subtle change.
 
-You can reset the manual changes anytime by clicking on **Reset glyph**. You can also reset one node by clicking on the green arrow displayed if the node is selected, or press **ctrl + z** to undo one change.
+You can reset the manual changes anytime by clicking on **Reset glyph**. You can also reset one node by clicking on the green arrow displayed if the node is selected, or press <kbd>CMD / CTRL</kbd> + <kbd>Z</kbd> to undo one change.
 
 A course which goes more in depth about the manual editing feature is coming, stay tuned!
 
