@@ -96,7 +96,7 @@ This font is not merged. The glyphs are made of several different contours that 
 
 ![icon](rbroGP5.jpg)
 
-Individualize parameters gives you access to the individualization feature about which you can learn more in our [Individualization tutorial](/academy/course/Individualizing-glyphs). Undo/Redo (ctrl+Z / ctrl+Y). Reset All Parameters to / Reset All changes: both to be used if you want to revert back to the original template of the typeface you're working on.
+Individualize parameters gives you access to the individualization feature about which you can learn more in our [Individualization tutorial](/academy/course/Individualizing-glyphs). Undo / Redo (<kbd>CMD / CTRL</kbd> + <kbd>Z</kbd> / <kbd>CMD / CTRL</kbd> + <kbd>Y</kbd>). Reset All Parameters to / Reset All changes: both to be used if you want to revert back to the original template of the typeface you're working on.
 
 
 #### Window Menu
