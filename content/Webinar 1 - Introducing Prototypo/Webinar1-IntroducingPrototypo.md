@@ -10,7 +10,7 @@ tags:
 readingTime: 50
 basics:
 isVideo: true
-objective: how to create a logo with Prototypo
+objective: how to master Prototypo
 published: true
 reward:
 header: |
