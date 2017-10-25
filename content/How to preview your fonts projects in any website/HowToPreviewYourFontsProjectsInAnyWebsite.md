@@ -24,8 +24,8 @@ Any changes made in Prototypo will automatically be applied on the webpage.
 
 First, you need to install the Prototypo Web Preview extension. For now, this extension is only available for [Google Chrome](https://chrome.google.com/webstore/detail/prototypo-web-preview/jglgljnhjnblboeonagfmfgglfdeakkf) and [Mozilla Firefox](https://addons.mozilla.org/fr/firefox/addon/prototypo-web-preview/).
 
-[![Get it on the Chrome Web Store](https://developer.chrome.com/webstore/images/ChromeWebStore_Badge_v2_206x58.png)](https://chrome.google.com/webstore/detail/prototypo-web-preview/jglgljnhjnblboeonagfmfgglfdeakkf)
-[![Get it on Mozilla Addons](https://addons.mozilla.org/fr/firefox/addon/prototypo-web-preview/)](https://developer.chrome.com/webstore/images/ChromeWebStore_Badge_v2_206x58.png)
+[![Get it on the Chrome Web Store](chrome-extension-badge.png)](https://chrome.google.com/webstore/detail/prototypo-web-preview/jglgljnhjnblboeonagfmfgglfdeakkf)
+[![Get it on Mozilla Addons](mozilla-add-on-badge.png)](https://addons.mozilla.org/fr/firefox/addon/prototypo-web-preview/)
 
 ## Login into the extension
 
