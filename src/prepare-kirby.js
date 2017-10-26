@@ -61,7 +61,7 @@ ${course.basics && course.basics.length > 0 ? ('Basicstitle: ' + course.basics.m
 ----
 
 
-Date: ${course.date}
+Date: ${course.date.toJSON()}
 
 
 ----
