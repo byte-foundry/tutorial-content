@@ -11,13 +11,13 @@ Ogdescription: Visualize your custom fonts inside webpages in real time using th
 ----
 
 
-Ogimage: null
+Ogimage: https://i.imgur.com/90HAsNy.png
 
 
 ----
 
 
-Headerimage: null
+Headerimage: https://i.imgur.com/90HAsNy.png
 
 
 ----
@@ -98,10 +98,11 @@ First, you need to install the Prototypo Web Preview extension. For now, this ex
 
 ## Login into the extension
 
+Click on the Prototypo icon, a panel opens. Enter the email and the password you use on Prototypo.
+
 (image:prototypo-web-preview-login.gif)
 
 
-Click on the Prototypo icon, a panel opens. Enter the email and the password you use on Prototypo.
 
 ## Using the extension
 

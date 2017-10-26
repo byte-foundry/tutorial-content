@@ -2,7 +2,7 @@
 title: How to preview your fonts projects in any website
 ogDescription: Visualize your custom fonts inside webpages in real time using the Prototypo Web Preview browser extension.
 ogImage: 
-headerImage: 
+headerImage: https://i.imgur.com/90HAsNy.png
 subtitle: Using the Prototypo Web Preview extension
 date: 2017-10-20
 tags:
@@ -10,10 +10,11 @@ tags:
 readingTime: 5
 basics:
 isVideo: false
-objective: insert fonts inside webpage to preview the result
+objective: insert fonts inside a webpage to preview the result
 published: true
 reward:
-header:
+header: |
+  Discover how to use the Prototypo Web Preview extension to preview your fonts on any webpage you like.
 ---
 
 The Prototypo Web Preview is a browser extension that enables you to see your fonts made inside Prototypo on any webpage you like. It can be used by both designers and web developers that want to see how their fonts looks like on a real world web project.
@@ -29,9 +30,10 @@ First, you need to install the Prototypo Web Preview extension. For now, this ex
 
 ## Login into the extension
 
+Click on the Prototypo icon, a panel opens. Enter the email and the password you use on Prototypo.
+
 ![Login flow animation](prototypo-web-preview-login.gif)
 
-Click on the Prototypo icon, a panel opens. Enter the email and the password you use on Prototypo.
 
 ## Using the extension
 

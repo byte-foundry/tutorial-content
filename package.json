@@ -1,6 +1,6 @@
 {
   "name": "tutorial-content",
-  "version": "3.1.1",
+  "version": "3.1.2",
   "description": "A repository sharing the content of prototypo tutorial",
   "main": "lib/tutorial-content.js",
   "scripts": {
