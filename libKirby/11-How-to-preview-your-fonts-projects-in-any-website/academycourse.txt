@@ -76,7 +76,8 @@ Subtitle: Using the Prototypo Web Preview extension
 
 
 Header:
-null
+Discover how to use the Prototypo Web Preview extension to preview your fonts on any webpage you like.
+
 
 
 ----
