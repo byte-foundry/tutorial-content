@@ -3,6 +3,7 @@
   "version": "3.1.2",
   "description": "A repository sharing the content of prototypo tutorial",
   "main": "lib/tutorial-content.js",
+  "module": "src/index.js",
   "scripts": {
     "build": "webpack --mode=build",
     "dev": "webpack --progress --colors --watch --mode=dev"
