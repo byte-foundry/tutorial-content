@@ -33,13 +33,13 @@
     "load-from-directory": "^1.0.3",
     "markdown-loader": "^0.1.7",
     "raw-loader": "^0.5.1",
-    "slug": "^0.9.1",
     "webpack": "1.12.9",
     "webpack-shell-plugin": "^0.5.0",
     "yargs": "3.32.0"
   },
   "dependencies": {
     "front-matter": "^2.1.2",
-    "fs-extra": "^2.1.2"
+    "fs-extra": "^2.1.2",
+    "speakingurl": "^14.0.1"
   }
 }

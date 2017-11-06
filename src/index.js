@@ -1,5 +1,5 @@
 const fm = require('front-matter');
-const slug = require('slug');
+const getSlug = require('speakingurl');
 const tutorials = require.context('../content/', true, /^\.\/.*\.md/);
 
 export default class TutorialContent {
@@ -9,9 +9,9 @@ export default class TutorialContent {
       const {title, ogDescription, ogImage, headerImage, subtitle, date, readingTime, tags = [],
          published, reward, header, isVideo, objective} = tutorial.attributes;
 
-      this[slug(title)] = {
+      this[getSlug(title)] = {
         title,
-        slug: slug(tutorial.attributes.title),
+        slug: getSlug(tutorial.attributes.title),
         ogDescription,
         ogImage,
         headerImage,
@@ -20,7 +20,7 @@ export default class TutorialContent {
         readingTime,
         tags,
         basics: tutorial.attributes.basics ? 
-        tutorial.attributes.basics.map((basic => ({title: basic, slug: slug(basic)}))) : 
+        tutorial.attributes.basics.map((basic => ({title: basic, slug: getSlug(basic)}))) : 
         [],
         published,
         reward,
@@ -29,7 +29,7 @@ export default class TutorialContent {
         isVideo,
         objective
       };
-      return slug(title);
+      return getSlug(title);
     });
   }
   get content() {
