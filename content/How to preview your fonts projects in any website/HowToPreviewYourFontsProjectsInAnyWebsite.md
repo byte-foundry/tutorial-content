@@ -17,7 +17,7 @@ header: |
   Discover how to use the Prototypo Web Preview extension to preview your fonts on any webpage you like.
 ---
 
-The Prototypo Web Preview is a browser extension that enables you to see your fonts made inside Prototypo on any webpage you like. It can be used by both designers and web developers that want to see how their fonts looks like on a real world web project.
+The Prototypo Web Preview is a browser extension that enables you to see your fonts made inside Prototypo on any webpage you like. It can be used by both designers and web developers that want to see how their fonts look like on a real world web project.
 
 Any changes made in Prototypo will automatically be applied on the webpage.
 
