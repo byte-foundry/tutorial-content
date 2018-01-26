@@ -58,7 +58,7 @@ You can use those to create certain groups of letters which you can modify indep
 
 ![choosing an indiv](indiv_bread_crumb.gif)
 
-You'll learn more about individualization groups in our [Individualization Tutorial](/academy/course/Individualizing-glyphs)
+You'll learn more about individualization groups in our [Individualization Tutorial](/academy/course/individualizing-glyphs)
 
 ### Now that we have covered what's the breadcrumbs, we can focus on the other part of this tutorial: the top bar.
 
