@@ -22,7 +22,7 @@ Each slider has a label that shows the parameter that will be updated and the cu
 It can be moved from left to right by clicking and dragging your mouse on the black circle.
 
 ## The tabs
-![Sliders - overview](https://www.prototypo.io/content/6-press/www.prototypo.io-m-all.gif)
+![Sliders - overview](slider-overview.gif)
 
 Above the slider view are four tabs : **Settings**, **Func**, **Style**, **Serifs**.
 ![Sliders - tabs](slider-tabs.gif)
