@@ -49,12 +49,6 @@ If a glyph can have components, there are two possible cases:
 
 To apply or change a component, click on the component icon (the circle or the gray shape), and click on the component you want to apply on the menu that just opened.
 
-### In the future
-
-We are planning to add new features to components:
-* Manually edit the components.
-* Create a group similar to the individualization group and get all component changes made on this group applied to all members.
-
-Stay tuned for the new updates!
+You can manually edit a component by selecting and dragging its nodes just like you would do with the glyph. You can also apply the changes to the similar components.
 
 ### That's the end of our quick tutorial about components. I hope you will find this feature useful to your needs!

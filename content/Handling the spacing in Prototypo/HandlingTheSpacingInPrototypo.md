@@ -32,7 +32,10 @@ Changing its value will change the overall spacing of your project.
 
 > You can also adjust the spacing for a group of letters by creating an individualisation group.
 
-## Fine-tuning the spacing in the word view
+## Fine-tuning the spacing
+
+### In the word view
+
 ![Spacing - Wordview header](spacing-wordview.gif)
 
 If you need to make some adjustment on your spacing between some letters, you can change it in the **word view**.
@@ -41,12 +44,17 @@ Select a glyph by clicking on it, you will see two green bars, and at the bottom
 
 Drag them to the left or the right to adjust the spacing value for this letter.
 
+### In the glyph view
+
+You can drag the spacing bars in the glyph view just like you would do on the word view. It can easily be reset with the "Reset spacing" button.
+
+![Spacing - Spacing ui in the glyphview](usingspacing-glyphview.gif)
+
 ## Upcoming features
 
 We are working on several features to enhance the spacing modifications:
 
 * Change the spacing value by putting a number directly into the wordview when the glyph is selected.
-* Dragging the green bars in the glyph view, just like how it is done on the word view.
 * Create a summary spacing table with all the spacing values for the project glypshet.
 
 ### That's how you manage spacing in Prototypo. Thanks for reading!

@@ -27,8 +27,8 @@ Each view has its purpose, and it's good to know how to manage and use them in o
 ## Display and resize the views
 ![ViewSystem - Switching view](viewsystem-switchingview.gif)
 
-First off, **displaying** the views. On the top-right, there are three icons:  ![ViewSystem - View toogle](viewsystem-viewtoogle.jpg) that can be either green or white. Green means that the view is opened, and white that the view is hidden. You click on an icon to toggle the view display.
-You can also click on the close ![ViewSystem - Close icon](viewsystem-closeicon.jpg) icon to hide the view.
+First off, **displaying** the views. On the top-right, there are three icons:  ![ViewSystem - View toogle](viewsystem-viewtoogle.png) that can be either green or white. Green means that the view is opened, and white that the view is hidden. You click on an icon to toggle the view display.
+You can also click on the close ![ViewSystem - Close icon](viewsystem-closeicon.png) icon to hide the view.
 
 Next, **resizing** the views. By default, the views are equally split on the interface but you might want to give more importance to a specific view.
 To do that, click and drag on the border between each view to resize them.
@@ -46,16 +46,16 @@ To do that, click and drag on the border between each view to resize them.
 The text view role is to display a large block of text to get an overall view of your font.
 With this view, you can have a good realistic impression of your typeface balance and color and see the impact of your modification on a large scale.
 
-You can adjust the **zoom** factor by clicking on the icons on the top-right: ![ViewSystem - Textview zoom](viewsystem-rezize.jpg)
+You can adjust the **zoom** factor by clicking on the icons on the top-right: ![ViewSystem - Textview zoom](viewsystem-resize.png)
 
 By clicking on the wheel icon or right-clicking anywhere in the text view, you can open the options menu and have more testing options like **inverted view** and **white on black** display.
 
-![ViewSystem - Text menu](viewsystem-textmenu.jpg)
+![ViewSystem - Text menu](viewsystem-textmenu.png)
 
 On the bottom-right, there is a **insert** button. Click on it to insert some sample text like *the quick brown fox*, the *Latin alphabet* or a *lorem ipsum*.
 You can also type anything you want inside the view to preview your own text.
 
-![ViewSystem - Text insert](viewsystem-insertmenu.jpg)
+![ViewSystem - Text insert](viewsystem-insertmenu.png)
 
 ## The word view
 ![ViewSystem - Word view cover](viewsystem-wordviewcover.jpg)
@@ -82,11 +82,6 @@ One last trick with the word view: you can double-click a glyph in the word view
 Last layer of detail: the glyph view. This is the highest level of details that you can achieve in Prototypo, and also the hardest view to master.
 This view is mainly used to do some fine-tuning or corrections to a specific glyph, or make hard modifications which go way below the range of the sliders.
 
-> Sometimes there is no glyphs displayed in the glyph view, especially when changing views or loading the app.
-> To get the glyph back, double-click on the glyph view or right click / click on the wheel icon then click on *reset view*.
-> We are working on a fix to prevent this from happening.
-![ViewSystem - Debug glyph](viewsystem-debugglyph.gif)
-
 There are several ways to change the glyph displayed:
 * Double click on a letter in the word view, as said above.
 * Click on **glyphs list** then select the glyph (see [our glyphs list course](/academy/course/Using-the-glyphs-list)).
@@ -97,20 +92,22 @@ In this view, you can scroll to zoom. Press the **Z** key anytime to temporarily
 
 At the top of the view, there is a menu bar. Each symbol represents a feature inside the glyph view.
 
-![ViewSystem - move glyph](viewsystem-move.jpg) the first menu is the **move** feature. In this feature, you can move your glyph inside the view by dragging it with your mouse. You can reset the view by double-clicking on the glyph view or right clicking / clicking on the wheel icon then click on *reset view*.
+![ViewSystem - move glyph](viewsystem-move.png) The first menu is the **move** feature. In this feature, you can move your glyph inside the view by dragging it with your mouse. You can reset the view by double-clicking on the glyph view or right clicking / clicking on the wheel icon then click on *reset view*.
 You can temporarily go back to this view while keeping the **space** key pressed.
 
-![ViewSystem - components glyph](viewsystem-components.jpg) the second one is the components feature. It allows you to quickly add or remove components on this glyph. See [our components course](/academy/course/Using-components) for more details on this feature.
+![ViewSystem - components glyph](viewsystem-components.png) The little shapes menu is the **components** feature. It allows you to quickly add or remove components on this glyph. See [our components course](/academy/course/Using-components) for more details on this feature.
 
-![ViewSystem - manual editing glyph](viewsystem-manualedit.jpg) the last menu item is the manual editing feature. In there, you have access to all the nodes composing the glyph. You can click on a node to show the controls.
+![ViewSystem - manual editing glyph](viewsystem-manualedit.png) The arrow represents **the manual editing** feature. In there, you have access to all the nodes composing the glyph. You can click on a node to show the controls.
 Drag the node around to change its position, or drag the controls to get a more subtle change.
 
 You can reset the manual changes anytime by clicking on **Reset glyph**. You can also reset one node by clicking on the green arrow displayed if the node is selected, or press **ctrl + z** to undo one change.
 
 A course which goes more in depth about the manual editing feature is coming, stay tuned!
 
+![ViewSystem - shadow](viewsystem-shadow.png) The last menu is the **shadow** feature. When activated, you can drop or select an OTF file that will be placed under your glyph. This feature is very useful if you want to reproduce one of your font into a parametric version by using one of our template.
+
 And as always, you can right-click anywhere or click on the wheel icon to display the glyph view menu. There, you can display only the outline of the glyph, show the node coordinates if you are on the manual editing feature, or reset the glyph position.
 
-![ViewSystem - Word menu](viewsystem-glyphmenu.jpg)
+![ViewSystem - Word menu](viewsystem-glyphmenu.png)
 
 ### Thanks for reading this course! I hope we have answered some questions that you had. See you on the next one!
